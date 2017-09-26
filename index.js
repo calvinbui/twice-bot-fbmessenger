@@ -7,6 +7,8 @@ const knockknock = /\bknock knock\b/i
 const ohah = /\boh+ ah+\b/i
 const signal = /\bsignal\b/i
 const cheerup = /\bcheer up\b/i
+const touchdown = /\btouchdown\b/i
+const td = /\bTD\b/i
 
 login({email: "", password: ""}, (err, api) => {
   if(err) return console.error(err);
@@ -31,6 +33,7 @@ login({email: "", password: ""}, (err, api) => {
     else if (cheerup.test(message.body)) { video("Knock Knock", "https://youtu.be/c7rCyll5AeY") }
     else if (ohah.test(message.body)) { video("Like OOH-AHH", "https://youtu.be/0rtV5esQT6I") }
     else if (signal.test(message.body)) { video("Signal", "https://youtu.be/VQtonf1fv_s?t=35s") }
+    else if (touchdown.test(message.body) || td.test(message.body)) { video("Touchdown", "https://youtu.be/N1oYWMGeUTY") }
 
   });
 });
