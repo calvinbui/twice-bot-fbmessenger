@@ -26,10 +26,8 @@ login({email: credentials.username, password: credentials.password}, (err, api) 
     for (song in db.songs) {
       // loop through each song's search queries
       for (query in db.songs[song].queries) {
-        // create regex expression
-        var regexp = new RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i');
         // test if regex matches
-        if (regexp.test(message.body)) {
+        if (RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i').test(message.body)) {
           // call video file with random media file
           video(db.songs[song].title, db.songs[song].media[Math.floor(Math.random()*db.songs[song].media.length)])
         }
