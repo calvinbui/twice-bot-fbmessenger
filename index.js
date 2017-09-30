@@ -3,8 +3,11 @@ var fs = require('fs');
 var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
 var credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
-login({email: credentials.username, password: credentials.password}, (err, api) => {
-  if(err) return console.error(err);
+login({
+  email: credentials.username,
+  password: credentials.password
+}, (err, api) => {
+  if (err) return console.error(err);
 
   // reply when i talk to myself
   api.setOptions({
@@ -18,8 +21,7 @@ login({email: credentials.username, password: credentials.password}, (err, api) 
       console.log("Replying with " + videoname + " and " + link);
       api.sendMessage({
         url: link
-        }, message.threadID
-      );
+      }, message.threadID);
     }
 
     // loop through songs array
@@ -29,7 +31,7 @@ login({email: credentials.username, password: credentials.password}, (err, api) 
         // test if regex matches
         if (RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i').test(message.body)) {
           // call video file with random media file
-          video(db.songs[song].title, db.songs[song].media[Math.floor(Math.random()*db.songs[song].media.length)])
+          video(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)])
         }
       }
     }
