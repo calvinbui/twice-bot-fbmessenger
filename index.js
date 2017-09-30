@@ -1,8 +1,9 @@
 var login = require("facebook-chat-api");
 var fs = require('fs');
 var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+var credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
-login({email: "", password: ""}, (err, api) => {
+login({email: credentials.username, password: credentials.password}, (err, api) => {
   if(err) return console.error(err);
 
   // reply when i talk to myself
