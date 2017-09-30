@@ -6,6 +6,15 @@
       "queries": ["tt", "table tennis"],
       "media": [
         "https://youtu.be/ePpPVE-GGJw?t=27s",
+        "https://youtu.be/t35H2BVq490?t=20s",
+        "https://youtu.be/aIotMK_TxWk?t=55s",
+        "https://www.youtube.com/watch?v=6m2HnILWGc8",
+        "https://www.youtube.com/watch?v=t35H2BVq490",
+        "https://www.youtube.com/watch?v=9uypQGzzhns",
+        "https://www.youtube.com/watch?v=e68uLF_Knng",
+        "https://www.youtube.com/watch?v=9uypQGzzhns",
+        "https://www.youtube.com/watch?v=0kFysgVv9ZQ",
+        "https://www.youtube.com/watch?v=Ur2Uva68jKg",
         "https://giphy.com/gifs/xUySTSw1cAhgl2fnS8/html5",
         "https://giphy.com/gifs/l1AvAYzJg4fyg4Mso/html5",
         "https://giphy.com/gifs/xUySTStryvDttLbDMc/html5",
@@ -18,6 +27,16 @@
       "queries": ["knock knock"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
+        "https://www.youtube.com/watch?v=uV7255J1Nrw",
+        "https://youtu.be/PVpMNQVE8dQ?t=15s",
+        "https://www.youtube.com/watch?v=idOQFSu_4Ok",
+        "https://www.youtube.com/watch?v=YIt5_aD0noQ",
+        "https://www.youtube.com/watch?v=If_EBdR2DlY",
+        "https://www.youtube.com/watch?v=yi_OCnQIL_g",
+        "https://youtu.be/Pqzv8qzVusI?t=10s",
+        "https://www.youtube.com/watch?v=v5_kiqmSjUE",
+        "https://www.youtube.com/watch?v=KvGdJEKpOfI",
+        "https://www.youtube.com/watch?v=XfSChK5K4Sc",
         "https://giphy.com/gifs/l0ErA4z8LHziFm8gw/html5",
         "https://giphy.com/gifs/xUySTrWQm71qTnZ79e/html5",
         "https://giphy.com/gifs/xUySTUe1J3OyKfpj3i/html5",
@@ -29,6 +48,16 @@
       "queries": ["cheer up"],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
+        "https://www.youtube.com/watch?v=1Kg4yomNEgs",
+        "https://www.youtube.com/watch?v=3tgvMMLWgqk",
+        "https://www.youtube.com/watch?v=VWWX3ovopfA",
+        "https://www.youtube.com/watch?v=b1Jkdb8G0-4",
+        "https://www.youtube.com/watch?v=7T4wxA2BGTo",
+        "https://www.youtube.com/watch?v=NFBf4joVnjc",
+        "https://www.youtube.com/watch?v=Fq9EcQnUIXg",
+        "https://www.youtube.com/watch?v=L7_i-r9mo9w",
+        "https://www.youtube.com/watch?v=t9ETveuWsaU",
+        "https://www.youtube.com/watch?v=oUrOAxVbieo",
         "https://giphy.com/gifs/B0LzdUCe0EeOI/html5"
       ]
     }, {
@@ -36,6 +65,13 @@
       "queries": ["o+h+ a+h+"],
       "media": [
         "https://youtu.be/0rtV5esQT6I",
+        "https://www.youtube.com/watch?v=YMxQyrxhHXA",
+        "https://www.youtube.com/watch?v=vYkGpOeqp4g",
+        "https://www.youtube.com/watch?v=ADmSA0eE8SU",
+        "https://www.youtube.com/watch?v=WEqu-5lBC0U",
+        "https://www.youtube.com/watch?v=2YwRXEC5gXo",
+        "https://www.youtube.com/watch?v=5UwnxBvat04",
+        "https://www.youtube.com/watch?v=eM79uTTjRLk",
         "https://giphy.com/gifs/lqe5cAWQz4smI/html5",
         "https://giphy.com/gifs/TqO1qyT4xKU12/html5",
         "https://giphy.com/gifs/xtBrQieMuyhuE/html5"
@@ -45,6 +81,13 @@
       "queries": ["signal"],
       "media": [
         "https://youtu.be/VQtonf1fv_s?t=35s",
+        "https://www.youtube.com/watch?v=EpMwiqW8k8o",
+        "https://www.youtube.com/watch?v=TRijPlol9D8",
+        "https://www.youtube.com/watch?v=JYm7eZVny5A",
+        "https://www.youtube.com/watch?v=-4TqsacRcFM",
+        "https://www.youtube.com/watch?v=vdUYWwHSA-E",
+        "https://www.youtube.com/watch?v=Nz34eXA_D7M",
+        "https://youtu.be/n0fXNcwM0pk?t=15s",
         "https://giphy.com/gifs/l3fZMdKhhzLZuSF2g/html5",
         "https://giphy.com/gifs/l3fZHtEEgLqCrdA3K/html5",
         "https://giphy.com/gifs/3owzVRbTKWzIt1c69G/html5"
@@ -56,6 +99,12 @@
         "https://youtu.be/N1oYWMGeUTY",
         "https://youtu.be/9YnlX1lSWHg?t=2s",
         "https://youtu.be/q7G7kkVE7zA?t=10s"
+      ]
+    }, {
+      "title": "Gee",
+      "queries": ["gee+"],
+      "media": [
+        "https://www.youtube.com/watch?v=WaDj9JS9qag"
       ]
     }
   ]
