@@ -17,10 +17,10 @@ login({
   api.listen((err, message) => {
 
     // send message with media
-    function video(videoname, link) {
-      console.log("Replying with " + videoname + " and " + link);
+    function video(title, media) {
+      console.log("Replying with " + title + " and " + media);
       api.sendMessage({
-        url: link
+        url: media
       }, message.threadID);
     }
 
