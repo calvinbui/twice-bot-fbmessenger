@@ -3,6 +3,9 @@ var fs = require('fs');
 var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
 var credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
+console.log("Database loaded");
+console.log(db);
+
 login({
   email: credentials.username,
   password: credentials.password
@@ -15,6 +18,7 @@ login({
   });
 
   api.listen((err, message) => {
+    console.log("Bot started");
 
     // send message with media
     function send_media(title, media) {
@@ -30,6 +34,7 @@ login({
       for (query in db.songs[song].queries) {
         // test if regex matches
         if (RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i').test(message.body)) {
+          console.log("Message received: " + message.body);
           // call video file with random media file
           send_media(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)])
         }
