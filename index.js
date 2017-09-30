@@ -1,9 +1,10 @@
-var login = require("facebook-chat-api");
-var fs = require('fs');
-var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
-var credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
+const login = require('facebook-chat-api');
+const fs = require('fs');
 
-console.log("Database loaded");
+const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
+
+console.log('Database loaded');
 console.log(db);
 
 login({
@@ -12,34 +13,32 @@ login({
 }, (err, api) => {
   if (err) return console.error(err);
 
+  console.log('Bot started');
   // reply when i talk to myself
   api.setOptions({
     selfListen: true
   });
 
   api.listen((err, message) => {
-    console.log("Bot started");
-
     // send message with media
-    function send_media(title, media) {
-      console.log("Replying with " + title + " and " + media);
+    function sendMedia(title, media) {
+      console.log(`Replying with ${title} and ${media}`);
       api.sendMessage({
         url: media
       }, message.threadID);
     }
 
     // loop through songs array
-    for (song in db.songs) {
+    for (let song = 0; song < db.songs.length; song++) {
       // loop through each song's search queries
-      for (query in db.songs[song].queries) {
+      for (let query = 0; query < db.songs[song].queries.length; query++) {
         // test if regex matches
-        if (RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i').test(message.body)) {
-          console.log("Message received: " + message.body);
+        if (RegExp(`\\b${db.songs[song].queries[query]}\\b`, 'i').test(message.body)) {
+          console.log(`Message received: ${message.body}`);
           // call video file with random media file
-          send_media(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)])
+          sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
         }
       }
     }
-
   });
 });
