@@ -17,7 +17,7 @@ login({
   api.listen((err, message) => {
 
     // send message with media
-    function video(title, media) {
+    function send_media(title, media) {
       console.log("Replying with " + title + " and " + media);
       api.sendMessage({
         url: media
@@ -31,7 +31,7 @@ login({
         // test if regex matches
         if (RegExp("\\b" + db.songs[song].queries[query] + "\\b", 'i').test(message.body)) {
           // call video file with random media file
-          video(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)])
+          send_media(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)])
         }
       }
     }
