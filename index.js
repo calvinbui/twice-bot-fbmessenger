@@ -1,4 +1,6 @@
-const login = require("facebook-chat-api");
+var login = require("facebook-chat-api");
+var fs = require('fs');
+var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
 
 // strings to match
 const tt = /\btt\b/i
