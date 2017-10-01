@@ -107,6 +107,18 @@
         "https://www.youtube.com/watch?v=WaDj9JS9qag",
         "http://www.dailymotion.com/video/x3ximdw"
       ]
+    }, {
+      "title": "TWICE",
+      "queries": ["twice"],
+      "media": [
+        "https://www.youtube.com/watch?v=YdeeXDO--cs",
+        "https://giphy.com/gifs/3ohuPpZUKLWy6DjhxC/html5",
+        "https://giphy.com/gifs/3ofSBtlGeOK3gDpvO0/html5",
+        "https://giphy.com/gifs/l1AsTmCzh82mFH6ZG/html5",
+        "https://giphy.com/gifs/xUySTzzp9JPYGP2dyM/html5",
+        "https://giphy.com/gifs/3ofT5MfT8z72WFalMc/html5",
+        "https://giphy.com/gifs/kzeoWrOtCZ6RW/html5"
+      ]
     }
   ]
 }
