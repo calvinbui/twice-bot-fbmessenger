@@ -19,6 +19,12 @@ login({
     selfListen: true
   });
 
+  /* activate to get threadinfo
+  api.getThreadList(0, 10, 'inbox', (err, arr) => {
+    console.log(arr);
+  });
+  */
+
   api.listen((err, message) => {
     // send message with media
     function sendMedia(title, media) {
