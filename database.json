@@ -3,7 +3,7 @@
   "songs": [
     {
       "title": "TT",
-      "queries": ["tt", "table tennis"],
+      "queries": ["tt", "table tennis", "t\\.t"],
       "media": [
         "https://youtu.be/ePpPVE-GGJw?t=27s",
         "https://youtu.be/t35H2BVq490?t=20s",
@@ -45,7 +45,7 @@
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer up"],
+      "queries": ["cheer up", ":("],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
@@ -57,8 +57,7 @@
         "https://www.youtube.com/watch?v=Fq9EcQnUIXg",
         "https://www.youtube.com/watch?v=L7_i-r9mo9w",
         "https://www.youtube.com/watch?v=t9ETveuWsaU",
-        "https://www.youtube.com/watch?v=oUrOAxVbieo",
-        "https://giphy.com/gifs/B0LzdUCe0EeOI/html5"
+        "https://www.youtube.com/watch?v=oUrOAxVbieo"
       ]
     }, {
       "title": "Like OOH-AHH",
@@ -118,6 +117,46 @@
         "https://giphy.com/gifs/xUySTzzp9JPYGP2dyM/html5",
         "https://giphy.com/gifs/3ofT5MfT8z72WFalMc/html5",
         "https://giphy.com/gifs/kzeoWrOtCZ6RW/html5"
+      ]
+    }, {
+      "title": "Woo Hoo",
+      "queries": ["woo+"],
+      "media": [
+        "https://www.youtube.com/watch?v=Q07nPFLBe18",
+        "https://www.youtube.com/watch?v=8Yv8lPz9I6U",
+        "https://www.youtube.com/watch?v=2nb0GKCxs1g"
+      ]
+    }, {
+      "title": "Good Girl Bad Girl",
+      "queries": ["good girl", "bad girl"],
+      "media": [
+        "https://www.youtube.com/watch?v=wmXlymC8HOQ",
+        "https://www.youtube.com/watch?v=IbN6q00s-9A"
+      ]
+    }, {
+      "title": "Jelly Jelly",
+      "queries": ["u jelly", "you jelly",  "jelly\\?"],
+      "media": [
+        "https://www.youtube.com/watch?v=WuLQ5iV3Q64",
+        "https://www.youtube.com/watch?v=dcZZRuhVnFs",
+        "https://www.youtube.com/watch?v=xoRUkPR7WeE",
+        "https://www.youtube.com/watch?v=GgN3-Kfustw"
+      ]
+    }, {
+      "title": "Like A Fool",
+      "queries": ["u fool", "a fool",  "you fool"],
+      "media": [
+        "https://www.youtube.com/watch?v=sc9AAtx72ms",
+        "https://www.youtube.com/watch?v=cn_fvqJf1uw",
+        "https://www.youtube.com/watch?v=QKtxAmbx2Fk",
+        "https://www.youtube.com/watch?v=NHchQ8otASA"
+      ]
+    }, {
+      "title": "Ponytail",
+      "queries": ["ponytail"],
+      "media": [
+        "https://www.youtube.com/watch?v=js6G0fXXZjI",
+        "https://www.youtube.com/watch?v=GR6QvlCKazk"
       ]
     }
   ]
