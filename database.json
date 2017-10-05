@@ -45,7 +45,7 @@
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer up", ":\\("],
+      "queries": ["cheer up", "\\:\\("],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
