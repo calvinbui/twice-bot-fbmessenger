@@ -158,6 +158,12 @@
         "https://www.youtube.com/watch?v=js6G0fXXZjI",
         "https://www.youtube.com/watch?v=GR6QvlCKazk"
       ]
+    }, {
+      "title": "One More Time",
+      "queries": ["one more time"],
+      "media": [
+        "https://www.youtube.com/watch?v=HuoOEry-Yc4"
+      ]
     }
   ]
 }
