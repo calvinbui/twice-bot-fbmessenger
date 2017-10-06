@@ -34,6 +34,7 @@ login({
       }, message.threadID);
     }
 
+    // reacto to message with heart eyes
     function sendReaction() {
       api.setMessageReaction(':heart_eyes:', message.messageID, (err) => {
         if (err) return console.error(err);
@@ -49,6 +50,7 @@ login({
           console.log(`Message received: ${message.body}`);
           // call video file with random media file
           sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
+          // react to message
           sendReaction();
         }
       }
