@@ -1,7 +1,11 @@
 const login = require('facebook-chat-api');
 const fs = require('fs');
+//Self Json Reload
+var SelfReloadJSON = require('self-reload-json');
 
-const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+const db = new SelfReloadJSON('database.json');
+
+//const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
