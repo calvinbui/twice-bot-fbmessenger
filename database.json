@@ -24,7 +24,7 @@
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["knock knock"],
+      "queries": ["knock", "knoc k", "kno ck", "kn ock", "k nock"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
@@ -45,7 +45,7 @@
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer up", "\\:\\("],
+      "queries": ["cheer up", "\\:\\(", "cheer me up"],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
@@ -128,7 +128,7 @@
       ]
     }, {
       "title": "Good Girl Bad Girl",
-      "queries": ["good girl", "bad girl"],
+      "queries": ["good girl", "bad girl", "gud girl"],
       "media": [
         "https://www.youtube.com/watch?v=wmXlymC8HOQ",
         "https://www.youtube.com/watch?v=IbN6q00s-9A"
