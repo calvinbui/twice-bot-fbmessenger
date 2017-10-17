@@ -164,6 +164,40 @@
       "media": [
         "https://www.youtube.com/watch?v=HuoOEry-Yc4"
       ]
+    }, {
+      "title": "Windy Day",
+      "queries": ["windy"],
+      "media": [
+        "https://www.youtube.com/watch?v=T8DbJhcLUXQ"
+      ]
+    }, {
+      "title": "Honey",
+      "queries": ["h(o|u)+ney"],
+      "media": [
+        "https://www.youtube.com/watch?v=qkFFHunju1o",
+        "https://youtu.be/wmXlymC8HOQ?t=3m12s"
+      ]
+    }, {
+      "title": "So Hot",
+      "queries": ["so+ ho+t"],
+      "media": [
+        "https://www.youtube.com/watch?v=hhCbrsROnv0",
+        "https://youtu.be/lK0qFtRUGFQ?t=1m51s"
+      ]
+    }, {
+      "title": "Truth",
+      "queries": ["truth"],
+      "media": [
+        "https://www.youtube.com/watch?v=kFVIlpZWxR8",
+        "https://www.youtube.com/watch?v=FiHNeK0RobM",
+        "https://www.youtube.com/watch?v=asTYp1uW384"
+      ]
+    }, {
+      "title": "Saturday Night",
+      "queries": ["saturday ni(ght|te)"],
+      "media": [
+        "https://www.youtube.com/watch?v=yKkpNUT0UA0"
+      ]
     }
   ]
 }
