@@ -3,7 +3,7 @@
   "songs": [
     {
       "title": "TT",
-      "queries": ["tt", "table tennis", "t\\.t"],
+      "queries": ["tt", "table tennis", "t\\.t", "T T"],
       "media": [
         "https://youtu.be/ePpPVE-GGJw?t=27s",
         "https://youtu.be/t35H2BVq490?t=20s",
@@ -24,7 +24,7 @@
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["knock", "knoc k", "kno ck", "kn ock", "k nock"],
+      "queries": ["knock knock", "k\\s?n\\s?o\\s?c\\s?k k\\s?n\\s?o\\s?c\\s?k"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
@@ -127,8 +127,8 @@
         "https://www.youtube.com/watch?v=2nb0GKCxs1g"
       ]
     }, {
-      "title": "Good Girl Bad Girl",
-      "queries": ["good girl", "bad girl", "gud girl"],
+      "title": "Bad Girl Good Girl",
+      "queries": ["g(u|oo)+d+ g(i|u)+rl+", "ba+d+ g(i|u)+rl+"],
       "media": [
         "https://www.youtube.com/watch?v=wmXlymC8HOQ",
         "https://www.youtube.com/watch?v=IbN6q00s-9A"
@@ -144,7 +144,7 @@
       ]
     }, {
       "title": "Like A Fool",
-      "queries": ["u fool", "a fool",  "you fool"],
+      "queries": ["(u|a|you) foo+l"],
       "media": [
         "https://www.youtube.com/watch?v=sc9AAtx72ms",
         "https://www.youtube.com/watch?v=cn_fvqJf1uw",
