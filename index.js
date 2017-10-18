@@ -1,7 +1,6 @@
 const login = require('facebook-chat-api');
 const fs = require('fs');
-//Self Json Reload
-var SelfReloadJSON = require('self-reload-json');
+const SelfReloadJSON = require('self-reload-json');
 
 const db = new SelfReloadJSON('database.json');
 
