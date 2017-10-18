@@ -198,6 +198,12 @@
       "media": [
         "https://www.youtube.com/watch?v=yKkpNUT0UA0"
       ]
+    }, {
+      "title": "Luv Me",
+      "queries": ["l(u|o)+v+e* (me+|you+|u+)"],
+      "media": [
+        "https://www.youtube.com/watch?v=S5wcE3aAZZc"
+      ]
     }
   ]
 }
