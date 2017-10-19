@@ -24,7 +24,7 @@
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["knock knock", "k\\s?n\\s?o\\s?c\\s?k k\\s?n\\s?o\\s?c\\s?k"],
+      "queries": ["k\\s?n\\s?o\\s?c\\s?k k\\s?n\\s?o\\s?c\\s?k"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
@@ -70,10 +70,7 @@
         "https://www.youtube.com/watch?v=WEqu-5lBC0U",
         "https://www.youtube.com/watch?v=2YwRXEC5gXo",
         "https://www.youtube.com/watch?v=5UwnxBvat04",
-        "https://www.youtube.com/watch?v=eM79uTTjRLk",
-        "https://giphy.com/gifs/lqe5cAWQz4smI/html5",
-        "https://giphy.com/gifs/TqO1qyT4xKU12/html5",
-        "https://giphy.com/gifs/xtBrQieMuyhuE/html5"
+        "https://www.youtube.com/watch?v=eM79uTTjRLk"
       ]
     }, {
       "title": "Signal",
@@ -87,9 +84,7 @@
         "https://www.youtube.com/watch?v=vdUYWwHSA-E",
         "https://www.youtube.com/watch?v=Nz34eXA_D7M",
         "https://youtu.be/n0fXNcwM0pk?t=15s",
-        "https://giphy.com/gifs/l3fZMdKhhzLZuSF2g/html5",
-        "https://giphy.com/gifs/l3fZHtEEgLqCrdA3K/html5",
-        "https://giphy.com/gifs/3owzVRbTKWzIt1c69G/html5"
+        "https://giphy.com/gifs/l3fZMdKhhzLZuSF2g/html5"
       ]
     }, {
       "title": "Touchdown",
