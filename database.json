@@ -167,7 +167,7 @@
       ]
     }, {
       "title": "Honey",
-      "queries": ["h(o|u)+ney"],
+      "queries": ["h(o|u)+(ne|nn)y"],
       "media": [
         "https://www.youtube.com/watch?v=qkFFHunju1o",
         "https://youtu.be/wmXlymC8HOQ?t=3m12s"
