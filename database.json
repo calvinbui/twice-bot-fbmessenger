@@ -9,6 +9,18 @@
   ],
   "songs": [
     {
+      "title": "Likey",
+      "queries": ["likey"],
+      "media": [
+        "https://www.youtube.com/watch?v=V2hlQkVJZhE",
+        "https://www.youtube.com/watch?v=bUrQbt1jR4A",
+        "https://www.youtube.com/watch?v=aHN1dK2UxE4",
+        "https://www.youtube.com/watch?v=1It6U6Q9YkQ",
+        "https://www.youtube.com/watch?v=l_GfewIW9ps",
+        "https://www.youtube.com/watch?v=Ln08CEj3UPM",
+        "https://www.youtube.com/watch?v=_IcHud0Ag6s"
+      ]
+    }, {
       "title": "TT",
       "queries": ["tt", "table tennis", "t\\.t", "T T"],
       "media": [
