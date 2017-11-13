@@ -3,7 +3,7 @@ const fs = require('fs');
 const SelfReloadJSON = require('self-reload-json');
 
 let db = new SelfReloadJSON('database.json');
-
+let peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
@@ -30,7 +30,8 @@ login({
   api.listen((err, message) => {
     // send message with media
     function sendMedia(title, media) {
-      console.log(`Replying with ${title} and ${media}`);
+      // returns -1 if the person is not on the ignore list
+      console.log(`Replying with ${title} and ${media} to ${message.senderID}`);
       api.sendMessage({
         url: media
       }, message.threadID);
@@ -43,19 +44,23 @@ login({
       });
     }
 
-    // loop through songs array
-    for (let song = 0; song < db.songs.length; song++) {
-      // loop through each song's search queries
-      for (let query = 0; query < db.songs[song].queries.length; query++) {
-        // test if regex matches
-        if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[.]?(?!\\S)`, 'i').test(message.body)) {
-          console.log(`Message received: ${message.body}`);
-          // call video file with random media file
-          sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
-          // react to message
-          sendReaction();
+    if (peopletoIgnore.indexOf(message.senderID) === -1) {
+      // loop through songs array
+      for (let song = 0; song < db.songs.length; song++) {
+        // loop through each song's search queries
+        for (let query = 0; query < db.songs[song].queries.length; query++) {
+          // test if regex matches
+          if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[.]?(?!\\S)`, 'i').test(message.body)) {
+            console.log(`Message received: ${message.body}`);
+            // call video file with random media file
+            sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
+            // react to message
+            sendReaction();
+          }
         }
       }
+    } else {
+      console.log(`Ignoring match from ${message.senderID}`);
     }
   });
 });
