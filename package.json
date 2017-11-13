@@ -9,8 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "facebook-chat-api": "^1.4.0",
-    "self-reload-json":"^0.3.0"
+    "facebook-chat-api": "Schmavery/facebook-chat-api#7552ce69561ac424cf6461e4c0cd8762ae2a7b9f",
+    "self-reload-json": "^0.3.0"
   },
   "devDependencies": {
     "eslint": "^4.3.0",
