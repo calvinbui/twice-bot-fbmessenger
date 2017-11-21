@@ -1,9 +1,0 @@
-{
-  "apps": [{
-    "name": "twice-bot-fbmessenger",
-    "script": "src/app.js",
-    "env": {
-      "production": true
-    }
-  }]
-}
