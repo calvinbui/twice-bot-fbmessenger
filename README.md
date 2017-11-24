@@ -28,15 +28,17 @@ The database is a JSON file with an entry per song.
 
 #### Regex Setting
 The regular expression by default matches:
-*   Any single or double quotes around the word
+*   Any single or double quotes before or after the word
 *   Any exclamation after the word
 *   Any periods after the word
 *   Any question-marks after the word
 *   A combination of the above (within normal limits...)
+*   Case-insensitively
 
 ## TODO
 -   Support two-factor authentication
 -   Whitelisting users
+-   Blacklisting/Whitelisting threads
 
 # Have some Tzuyu GIFS
 
