@@ -215,7 +215,53 @@
       "title": "Luv Me",
       "queries": ["l(u|o)+v+e* (me+|you+|u+)"],
       "media": [
-        "https://www.youtube.com/watch?v=S5wcE3aAZZc"
+        "https://www.youtube.com/watch?v=S5wcE3aAZZc",
+        "https://www.youtube.com/watch?v=0kWidNV5s3w"
+      ]
+    }, {
+      "title": "Turtle",
+      "queries": ["turtle"],
+      "media": [
+        "https://www.youtube.com/watch?v=sErJjrLswEw",
+        "https://www.youtube.com/watch?v=FJHDUcN-UX0"
+      ]
+    }, {
+      "title": "Wow",
+      "queries": ["wow"],
+      "media": [
+        "https://www.youtube.com/watch?v=-kf1y0S9gsk",
+        "https://www.youtube.com/watch?v=fpiN9HMMUrc"
+      ]
+    }, {
+      "title": "24/7",
+      "queries": ["24/7"],
+      "media": [
+        "https://www.youtube.com/watch?v=reUFmv3xr8w",
+        "https://www.youtube.com/watch?v=HPaGs1JHIvY"
+      ]
+    }, {
+      "title": "Look At Me",
+      "queries": ["look at me"],
+      "media": [
+        "https://www.youtube.com/watch?v=Kuo03Ct0SDA"
+      ]
+    }, {
+      "title": "Don't Give Up",
+      "queries": ["don't give up"],
+      "media": [
+        "https://www.youtube.com/watch?v=YzrFCB-w4cY"
+      ]
+    }, {
+      "title": "Rollin",
+      "queries": ["rolling?"],
+      "media": [
+        "https://www.youtube.com/watch?v=Kuo03Ct0SDA"
+      ]
+    }, {
+      "title": "Jaljayo Good Night",
+      "queries": ["good ni(ght|te)"],
+      "media": [
+        "https://www.youtube.com/watch?v=H18dwdbLvdw"
       ]
     }
   ]
