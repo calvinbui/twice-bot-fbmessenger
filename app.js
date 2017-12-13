@@ -13,7 +13,9 @@ login({
   email: credentials.username,
   password: credentials.password
 }, (err, api) => {
-  if (err) return console.error(err);
+  if (err) {
+    process.exit(1);
+  }
 
   console.log('Bot started');
   // reply when i talk to myself
@@ -28,6 +30,9 @@ login({
   */
 
   api.listen((err, message) => {
+    if (err) {
+      process.exit(1);
+    }
     // send message with media
     function sendMedia(title, media) {
       // returns -1 if the person is not on the ignore list
@@ -40,11 +45,16 @@ login({
     // reacto to message with heart eyes
     function sendReaction() {
       api.setMessageReaction(':heart_eyes:', message.messageID, (err) => {
-        if (err) return console.error(err);
+        if (err) {
+          process.exit(1);
+        }
       });
     }
 
     if (peopletoIgnore.indexOf(message.senderID) === -1) {
+      if (err) {
+        process.exit(1);
+      }
       // loop through songs array
       for (let song = 0; song < db.songs.length; song++) {
         // loop through each song's search queries
