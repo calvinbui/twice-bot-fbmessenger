@@ -53,7 +53,6 @@
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
         "https://youtu.be/PVpMNQVE8dQ?t=15s",
         "https://www.youtube.com/watch?v=idOQFSu_4Ok",
-        "https://www.youtube.com/watch?v=YIt5_aD0noQ",
         "https://www.youtube.com/watch?v=If_EBdR2DlY",
         "https://www.youtube.com/watch?v=yi_OCnQIL_g",
         "https://youtu.be/Pqzv8qzVusI?t=10s",
@@ -114,7 +113,7 @@
       "title": "Touchdown",
       "queries": ["touchdown", "td+"],
       "media": [
-        "https://youtu.be/N1oYWMGeUTY",
+        "https://www.youtube.com/watch?v=a2rRdbSRbRM",
         "https://youtu.be/9YnlX1lSWHg?t=2s",
         "https://youtu.be/q7G7kkVE7zA?t=10s"
       ]
@@ -141,7 +140,7 @@
       "title": "Woo Hoo",
       "queries": ["woo+"],
       "media": [
-        "https://www.youtube.com/watch?v=Q07nPFLBe18",
+        "https://www.youtube.com/watch?v=5RrU2KgkK9w",
         "https://www.youtube.com/watch?v=8Yv8lPz9I6U",
         "https://www.youtube.com/watch?v=2nb0GKCxs1g"
       ]
@@ -158,8 +157,7 @@
       "media": [
         "https://www.youtube.com/watch?v=WuLQ5iV3Q64",
         "https://www.youtube.com/watch?v=dcZZRuhVnFs",
-        "https://www.youtube.com/watch?v=xoRUkPR7WeE",
-        "https://www.youtube.com/watch?v=GgN3-Kfustw"
+        "https://www.youtube.com/watch?v=xoRUkPR7WeE"
       ]
     }, {
       "title": "Like A Fool",
@@ -174,7 +172,7 @@
       "title": "Ponytail",
       "queries": ["ponytail"],
       "media": [
-        "https://www.youtube.com/watch?v=js6G0fXXZjI",
+        "https://www.youtube.com/watch?v=nDFHrHf6XtE",
         "https://www.youtube.com/watch?v=GR6QvlCKazk"
       ]
     }, {
@@ -229,45 +227,50 @@
       "queries": ["turtle"],
       "media": [
         "https://www.youtube.com/watch?v=sErJjrLswEw",
-        "https://www.youtube.com/watch?v=FJHDUcN-UX0"
+        "https://www.youtube.com/watch?v=tVv_C2fYStU",
+        "https://www.youtube.com/watch?v=VTdydb_9p3U"
       ]
     }, {
       "title": "Wow",
       "queries": ["wow"],
       "media": [
         "https://www.youtube.com/watch?v=-kf1y0S9gsk",
-        "https://www.youtube.com/watch?v=fpiN9HMMUrc"
+        "https://www.youtube.com/watch?v=ngpGqFCioUI",
+        "https://www.youtube.com/watch?v=mWQtYuqpzWY",
+        "https://www.youtube.com/watch?v=C2RiBkNsAnk",
+        "https://www.youtube.com/watch?v=e0AvVW-FGuY"
       ]
     }, {
       "title": "24/7",
       "queries": ["24/7"],
       "media": [
         "https://www.youtube.com/watch?v=reUFmv3xr8w",
-        "https://www.youtube.com/watch?v=HPaGs1JHIvY"
+        "https://www.youtube.com/watch?v=2Z1C9rJtUHA"
       ]
     }, {
       "title": "Look At Me",
       "queries": ["look at me"],
       "media": [
-        "https://www.youtube.com/watch?v=Kuo03Ct0SDA"
+        "https://www.youtube.com/watch?v=Q97pvL6GsIA"
       ]
     }, {
       "title": "Don't Give Up",
       "queries": ["don't give up"],
       "media": [
-        "https://www.youtube.com/watch?v=YzrFCB-w4cY"
+        "https://www.youtube.com/watch?v=97PCZFThkVM"
       ]
     }, {
       "title": "Rollin",
       "queries": ["rolling?"],
       "media": [
-        "https://www.youtube.com/watch?v=Kuo03Ct0SDA"
+        "https://www.youtube.com/watch?v=jpvWkizFIEM"
       ]
     }, {
       "title": "Jaljayo Good Night",
       "queries": ["good ni(ght|te)"],
       "media": [
-        "https://www.youtube.com/watch?v=H18dwdbLvdw"
+        "https://www.youtube.com/watch?v=WMs-SzOSfzs",
+        "https://www.youtube.com/watch?v=M4pk0Wx372w"
       ]
     }
   ]
