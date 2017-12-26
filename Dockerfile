@@ -1,7 +1,7 @@
 FROM node:latest
 
 # Bundle APP files
-RUN mkdir twice && cd twice
+WORKDIR /twice
 COPY . .
 
 # Install app dependencies

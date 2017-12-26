@@ -1,8 +1,14 @@
 #!/bin/bash
-git pull
 
+# download the image
+docker pull calvinbui/twice-bot-fbmessenger
+
+# delete old image
 docker rm --force twice
 
-docker build -t twice .
-
-docker run -d --restart unless-stopped --name twice twice
+# run new image with credentials
+docker run -d \
+--restart unless-stopped \
+--name twice \
+-v credentials.json:/twice/credentials.json \
+calvinbui/twice-bot-fbmessenger

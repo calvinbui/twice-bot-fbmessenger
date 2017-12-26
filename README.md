@@ -7,6 +7,13 @@ The bot is written in Node.js and also runs in a Docker container.
 ## Requirements
 -   NodeJS or Docker
 
+## Easy start
+Create `credentials.json`.
+
+Run `build.sh` to build and run locally.
+
+Run `start.sh` to build and run with Docker image from Docker Hub.
+
 ## Usage
 ### NodeJS
 1.  Create a copy of `credentials.json.default` to `credentials.json`
