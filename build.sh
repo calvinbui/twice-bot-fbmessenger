@@ -9,6 +9,6 @@ docker build -t twice .
 
 docker run -d \
 --restart unless-stopped \
---name twice
--v credentials.json:/twice/credentials.json \
+--name twice \
+-v "$(pwd)"/credentials.json:/twice/credentials.json \
 twice

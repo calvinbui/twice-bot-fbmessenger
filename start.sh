@@ -10,5 +10,5 @@ docker rm --force twice
 docker run -d \
 --restart unless-stopped \
 --name twice \
--v credentials.json:/twice/credentials.json \
+-v "$(pwd)"/credentials.json:/twice/credentials.json \
 calvinbui/twice-bot-fbmessenger
