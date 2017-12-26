@@ -7,6 +7,31 @@
   ],
   "songs": [
     {
+      "title": "Merry and Happy",
+      "queries": ["merry", "happy"],
+      "media": [
+        "https://www.youtube.com/watch?v=zi_6oaQyckM",
+        "https://www.youtube.com/watch?v=kx2GUFO6jRg",
+        "https://www.youtube.com/watch?v=TtJuizOLRTY",
+        "https://www.youtube.com/watch?v=gT4qCovPhvg",
+        "https://www.youtube.com/watch?v=PM8EJ7-VdOI"
+      ]
+    }, {
+      "title": "Heart Shaker",
+      "queries": ["heart", "heart shaker"],
+      "media": [
+        "https://www.youtube.com/watch?v=rRzxEiBLQCA",
+        "https://www.youtube.com/watch?v=o2PHqq19ufM",
+        "https://www.youtube.com/watch?v=6Hfo0zw6Pug",
+        "https://www.youtube.com/watch?v=pJqLkxwXjI4",
+        "https://www.youtube.com/watch?v=mtoZRqCvucc",
+        "https://www.youtube.com/watch?v=2krSBqL0w1k",
+        "https://www.youtube.com/watch?v=Tw9TPoToEvw",
+        "https://www.youtube.com/watch?v=bRveOotrnFA",
+        "https://www.youtube.com/watch?v=xHpnK_5-f5E",
+        "https://www.youtube.com/watch?v=tkFjLGJC30o"
+      ]
+    }, {
       "title": "Likey",
       "queries": ["likey"],
       "media": [
