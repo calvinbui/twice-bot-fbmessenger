@@ -7,8 +7,20 @@
   ],
   "songs": [
     {
+      "title": "Greedy",
+      "queries": ["greedy"],
+      "media": [
+        "https://www.youtube.com/watch?v=e2MW0_0apc4"
+      ]
+    }, {
+      "title": "4 Minutes",
+      "queries": ["(4|four) min[utes][s]"],
+      "media": [
+        "https://www.youtube.com/watch?v=fswAkXsjxEk"
+      ]
+    }, {
       "title": "Merry and Happy",
-      "queries": ["merry", "happy"],
+      "queries": ["merry christmas", "xmas"],
       "media": [
         "https://www.youtube.com/watch?v=zi_6oaQyckM",
         "https://www.youtube.com/watch?v=kx2GUFO6jRg",
@@ -18,7 +30,7 @@
       ]
     }, {
       "title": "Heart Shaker",
-      "queries": ["heart", "heart shaker"],
+      "queries": ["heart", "heart shaker", "<3"],
       "media": [
         "https://www.youtube.com/watch?v=rRzxEiBLQCA",
         "https://www.youtube.com/watch?v=o2PHqq19ufM",
@@ -29,7 +41,9 @@
         "https://www.youtube.com/watch?v=Tw9TPoToEvw",
         "https://www.youtube.com/watch?v=bRveOotrnFA",
         "https://www.youtube.com/watch?v=xHpnK_5-f5E",
-        "https://www.youtube.com/watch?v=tkFjLGJC30o"
+        "https://www.youtube.com/watch?v=tkFjLGJC30o",
+        "https://www.youtube.com/watch?v=K6DQyEoPAeQ",
+        "https://www.youtube.com/watch?v=T77-1K7e7H0"
       ]
     }, {
       "title": "Likey",
@@ -46,7 +60,10 @@
         "https://www.youtube.com/watch?v=o2hcyFskTyc",
         "https://www.youtube.com/watch?v=OQebZnpN_wo",
         "https://www.youtube.com/watch?v=7-XVJhw2brw",
-        "https://www.youtube.com/watch?v=MU0qQcSt06Q"
+        "https://www.youtube.com/watch?v=MU0qQcSt06Q",
+        "https://www.youtube.com/watch?v=NgNuzO5hsVk",
+        "https://www.youtube.com/watch?v=GoLvhh89law",
+        "https://www.youtube.com/watch?v=vsTJCD4R7lI"
       ]
     }, {
       "title": "TT",
@@ -88,7 +105,8 @@
         "https://giphy.com/gifs/xUySTrWQm71qTnZ79e/html5",
         "https://giphy.com/gifs/xUySTUe1J3OyKfpj3i/html5",
         "https://giphy.com/gifs/3ofT5YhXKHBHl5dXaw/html5",
-        "https://giphy.com/gifs/xUySTXCrUBCNEA5lGE/html5"
+        "https://giphy.com/gifs/xUySTXCrUBCNEA5lGE/html5",
+        "https://www.youtube.com/watch?v=8nmcCZLJXT4"
       ]
     }, {
       "title": "Cheer Up",
@@ -132,7 +150,8 @@
         "https://www.youtube.com/watch?v=Nz34eXA_D7M",
         "https://youtu.be/n0fXNcwM0pk?t=15s",
         "https://giphy.com/gifs/l3fZMdKhhzLZuSF2g/html5",
-        "https://www.youtube.com/watch?v=4c4ShjoGAXA"
+        "https://www.youtube.com/watch?v=4c4ShjoGAXA",
+        "https://www.youtube.com/watch?v=8e8g_arMluI"
       ]
     }, {
       "title": "Touchdown",
@@ -257,7 +276,7 @@
       ]
     }, {
       "title": "Wow",
-      "queries": ["wow"],
+      "queries": ["woww+"],
       "media": [
         "https://www.youtube.com/watch?v=-kf1y0S9gsk",
         "https://www.youtube.com/watch?v=ngpGqFCioUI",
