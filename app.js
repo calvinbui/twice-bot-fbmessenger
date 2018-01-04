@@ -60,7 +60,7 @@ login({
         // loop through each song's search queries
         for (let query = 0; query < db.songs[song].queries.length; query++) {
           // test if regex matches
-          if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[.]?(?!\\S)`, 'i').test(message.body)) {
+          if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[,.]?(?!\\S)`, 'i').test(message.body)) {
             console.log(`Message received: ${message.body}`);
             // call video file with random media file
             sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
