@@ -1,9 +1,6 @@
 {
   "threadID": 951298381649390,
   "ignoreMessagesFrom": [
-    816105277,
-    801119250,
-    667789253
   ],
   "songs": [
     {
@@ -89,7 +86,7 @@
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["k\\s?n\\s?o\\s?c\\s?k k\\s?n\\s?o\\s?c\\s?k"],
+      "queries": ["k\\s?n\\s?o\\s?c\\s?k"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
@@ -131,7 +128,6 @@
         "https://youtu.be/0rtV5esQT6I",
         "https://www.youtube.com/watch?v=YMxQyrxhHXA",
         "https://www.youtube.com/watch?v=vYkGpOeqp4g",
-        "https://www.youtube.com/watch?v=ADmSA0eE8SU",
         "https://www.youtube.com/watch?v=WEqu-5lBC0U",
         "https://www.youtube.com/watch?v=2YwRXEC5gXo",
         "https://www.youtube.com/watch?v=5UwnxBvat04",
