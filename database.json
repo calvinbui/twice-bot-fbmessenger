@@ -64,7 +64,7 @@
       ]
     }, {
       "title": "TT",
-      "queries": ["tt", "table tennis", "t\\.t", "T T"],
+      "queries": ["t(\\.|)t", "table(\\ |\\.|)tennis", "T T"],
       "media": [
         "https://youtu.be/ePpPVE-GGJw?t=27s",
         "https://youtu.be/t35H2BVq490?t=20s",
@@ -107,7 +107,7 @@
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer up", "\\:\\(", "cheer me up"],
+      "queries": ["cheer(\\ me\\ |\\ )up", "cheer me up"],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
@@ -123,7 +123,7 @@
       ]
     }, {
       "title": "Like OOH-AHH",
-      "queries": ["o+hh+", "a+hh+"],
+      "queries": ["oo+hh+", "a+hh+"],
       "media": [
         "https://youtu.be/0rtV5esQT6I",
         "https://www.youtube.com/watch?v=YMxQyrxhHXA",
@@ -193,7 +193,7 @@
       ]
     }, {
       "title": "Jelly Jelly",
-      "queries": ["u jelly", "you jelly",  "jelly\\?"],
+      "queries": ["(u|you) jelly\\??", "jelly\\?"],
       "media": [
         "https://www.youtube.com/watch?v=WuLQ5iV3Q64",
         "https://www.youtube.com/watch?v=dcZZRuhVnFs",
