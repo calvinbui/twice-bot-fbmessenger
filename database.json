@@ -4,6 +4,14 @@
   ],
   "songs": [
     {
+      "title": "Candy Pop",
+      "queries": ["candy"],
+      "media": [
+        "https://www.youtube.com/watch?v=wQ_POfToaVY",
+        "https://www.youtube.com/watch?v=KF_CrNQrlUU"
+      ]
+    },
+    {
       "title": "Greedy",
       "queries": ["greedy"],
       "media": [
