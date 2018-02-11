@@ -8,7 +8,8 @@
       "queries": ["candy"],
       "media": [
         "https://www.youtube.com/watch?v=wQ_POfToaVY",
-        "https://www.youtube.com/watch?v=KF_CrNQrlUU"
+        "https://www.youtube.com/watch?v=KF_CrNQrlUU",
+        "https://www.youtube.com/watch?v=76-KTVPm7XA&"
       ]
     },
     {
@@ -48,7 +49,8 @@
         "https://www.youtube.com/watch?v=xHpnK_5-f5E",
         "https://www.youtube.com/watch?v=tkFjLGJC30o",
         "https://www.youtube.com/watch?v=K6DQyEoPAeQ",
-        "https://www.youtube.com/watch?v=T77-1K7e7H0"
+        "https://www.youtube.com/watch?v=T77-1K7e7H0",
+        "https://giphy.com/gifs/cKbINGRezZkRi/html5"
       ]
     }, {
       "title": "Likey",
@@ -72,7 +74,7 @@
       ]
     }, {
       "title": "TT",
-      "queries": ["t(\\.|)t", "table(\\ |\\.|)tennis", "T T"],
+      "queries": ["t(\\.|\\ |)t"],
       "media": [
         "https://youtu.be/ePpPVE-GGJw?t=27s",
         "https://youtu.be/t35H2BVq490?t=20s",
@@ -111,7 +113,14 @@
         "https://giphy.com/gifs/xUySTUe1J3OyKfpj3i/html5",
         "https://giphy.com/gifs/3ofT5YhXKHBHl5dXaw/html5",
         "https://giphy.com/gifs/xUySTXCrUBCNEA5lGE/html5",
-        "https://www.youtube.com/watch?v=8nmcCZLJXT4"
+        "https://www.youtube.com/watch?v=8nmcCZLJXT4",
+        "https://giphy.com/gifs/26grAwqbzIR0WGroQ/html5",
+        "https://giphy.com/gifs/3ofT5IOgW4D2AQjdzG/html5",
+        "https://giphy.com/gifs/3ofT5BYT34fZCdHLQQ/html5",
+        "https://giphy.com/gifs/3ofT5CNzlaNQJbqG2s/html5",
+        "https://giphy.com/gifs/xUySTEVkaAeeATXpoQ/html5",
+        "https://giphy.com/gifs/3ofT5GNMCoRsNxf4sM/html5",
+        "https://giphy.com/gifs/xUySTIOdORISCW2gH6/html5"
       ]
     }, {
       "title": "Cheer Up",
@@ -182,7 +191,12 @@
         "https://giphy.com/gifs/l1AsTmCzh82mFH6ZG/html5",
         "https://giphy.com/gifs/xUySTzzp9JPYGP2dyM/html5",
         "https://giphy.com/gifs/3ofT5MfT8z72WFalMc/html5",
-        "https://giphy.com/gifs/kzeoWrOtCZ6RW/html5"
+        "https://giphy.com/gifs/kzeoWrOtCZ6RW/html5",
+        "https://giphy.com/gifs/3ofSBoavWimJQUVIsg/html5",
+        "https://giphy.com/gifs/3ofSBxMV5fAcajc1uE/html5",
+        "https://giphy.com/gifs/xUySTQLIzfC0or89ig/html5",
+        "https://giphy.com/gifs/xUySTZCaBh7rMyu0zm/html5",
+        "https://giphy.com/gifs/oVfUQayWQPasE/html5"
       ]
     }, {
       "title": "Woo Hoo",
