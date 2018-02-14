@@ -334,6 +334,21 @@
         "https://www.youtube.com/watch?v=WMs-SzOSfzs",
         "https://www.youtube.com/watch?v=M4pk0Wx372w"
       ]
+    }, {
+      "title": "MLB",
+      "queries": ["mlb"],
+      "media": [
+        "https://www.youtube.com/watch?v=OuhMug3yXWQ",
+        "https://www.youtube.com/watch?v=cILi4qhnzGo",
+        "https://www.youtube.com/watch?v=nvARnLw9H9s",
+        "https://www.youtube.com/watch?v=S2zQz31L_UM"
+      ]
+    }, {
+      "title": "LG V30",
+      "queries": ["lg"],
+      "media": [
+        "https://www.youtube.com/watch?v=AgcuiFyfu2o"
+      ]
     }
   ]
 }
