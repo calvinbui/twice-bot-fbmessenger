@@ -341,13 +341,25 @@
         "https://www.youtube.com/watch?v=OuhMug3yXWQ",
         "https://www.youtube.com/watch?v=cILi4qhnzGo",
         "https://www.youtube.com/watch?v=nvARnLw9H9s",
-        "https://www.youtube.com/watch?v=S2zQz31L_UM"
+        "https://www.youtube.com/watch?v=S2zQz31L_UM",
+        "https://www.youtube.com/watch?v=RIFtBEklprk",
+        "https://www.youtube.com/watch?v=sejLFd38SUg",
+        "https://www.youtube.com/watch?v=DKQUZRrYP80",
+        "https://www.youtube.com/watch?v=X5HmyApnyxc",
+        "https://www.youtube.com/watch?v=Fmvwx1sr89c"
       ]
     }, {
       "title": "LG V30",
       "queries": ["lg"],
       "media": [
         "https://www.youtube.com/watch?v=AgcuiFyfu2o"
+      ]
+    }, {
+      "title": "NBA",
+      "queries": ["nba"],
+      "media": [
+        "https://www.youtube.com/watch?v=pqbC6r0KTs0",
+        "https://www.youtube.com/watch?v=_rCSgSakCTo"
       ]
     }
   ]
