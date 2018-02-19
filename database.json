@@ -363,6 +363,13 @@
         "https://www.youtube.com/watch?v=pqbC6r0KTs0",
         "https://www.youtube.com/watch?v=_rCSgSakCTo"
       ]
+    }, {
+      "title": "Test update",
+      "queries": ["testies"],
+      "media": [
+        "https://www.youtube.com/watch?v=pqbC6r0KTs0",
+        "https://www.youtube.com/watch?v=_rCSgSakCTo"
+      ]
     }
   ]
 }
