@@ -1,9 +1,11 @@
 const login = require('facebook-chat-api');
 const fs = require('fs');
 const SelfReloadJSON = require('self-reload-json');
+const request = require('request');
+var CronJob = require('cron').CronJob;
 
-let db = new SelfReloadJSON('database.json');
-let peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
+var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+var peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
@@ -16,6 +18,17 @@ login({
   if (err) {
     process.exit(1);
   }
+
+  var job = new CronJob('0 * * * * *', function() { // every minute
+    request('https://raw.githubusercontent.com/calvinbui/twice-bot-fbmessenger/master/database.json', function (error, response, body) {
+      if (!error && response.statusCode == 200) {
+        db = JSON.parse(body);
+        peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
+        console.log('Updated database.json');
+        console.log(db)
+      }
+    })
+  }, true, 'Australia/NSW');
 
   console.log('Bot started');
   // reply when i talk to myself
