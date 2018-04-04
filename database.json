@@ -363,6 +363,14 @@
         "https://www.youtube.com/watch?v=pqbC6r0KTs0",
         "https://www.youtube.com/watch?v=_rCSgSakCTo"
       ]
+    }, {
+      "title": "Sailor Moon",
+      "queries": ["sailor (moon|mars|mercury|jupiter|venus|chibi|pluto|uranus|neptune|saturn|starlights)"],
+      "media": [
+        "https://www.youtube.com/watch?v=zbFQwiSyqdI",
+        "https://www.youtube.com/watch?v=tPdtTJDdWhI",
+        "https://www.youtube.com/watch?v=xPZHucs808g"
+      ]
     }
   ]
 }
