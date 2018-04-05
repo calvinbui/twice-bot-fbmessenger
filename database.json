@@ -371,6 +371,13 @@
         "https://www.youtube.com/watch?v=tPdtTJDdWhI",
         "https://www.youtube.com/watch?v=xPZHucs808g"
       ]
+    }, {
+      "title": "Nike",
+      "queries": ["nike|nikes|airmax|air max"],
+      "media": [
+        "https://www.youtube.com/watch?v=B0UA3bhu2j0",
+        "https://www.youtube.com/watch?v=4xX0Q3-pycw"
+      ]
     }
   ]
 }
