@@ -20,7 +20,7 @@
       ]
     }, {
       "title": "4 Minutes",
-      "queries": ["(4|four) min[utes][s]"],
+      "queries": ["(4|four)\\s?min[utes][s]"],
       "media": [
         "https://www.youtube.com/watch?v=fswAkXsjxEk"
       ]
@@ -126,7 +126,7 @@
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer(\\ me\\ |\\ )up", "cheer me up"],
+      "queries": ["cheer(\\ me\\ |\\ )up", "cheer me up", "cheer up"],
       "media": [
         "https://youtu.be/c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
@@ -170,7 +170,7 @@
       ]
     }, {
       "title": "Touchdown",
-      "queries": ["touchdown", "td+"],
+      "queries": ["touchdown"],
       "media": [
         "https://www.youtube.com/watch?v=a2rRdbSRbRM",
         "https://youtu.be/9YnlX1lSWHg?t=2s",
@@ -202,7 +202,7 @@
       ]
     }, {
       "title": "Woo Hoo",
-      "queries": ["woo+"],
+      "queries": ["woo+hoo+"],
       "media": [
         "https://www.youtube.com/watch?v=5RrU2KgkK9w",
         "https://www.youtube.com/watch?v=8Yv8lPz9I6U",
@@ -225,7 +225,7 @@
       ]
     }, {
       "title": "Like A Fool",
-      "queries": ["(u|a|you) foo+l"],
+      "queries": ["like a foo+l"],
       "media": [
         "https://www.youtube.com/watch?v=sc9AAtx72ms",
         "https://www.youtube.com/watch?v=cn_fvqJf1uw",
@@ -281,7 +281,7 @@
       ]
     }, {
       "title": "Luv Me",
-      "queries": ["l(u|o)+v+e* (me+|you+|u+)"],
+      "queries": ["l(u|o)+v+e* me"],
       "media": [
         "https://www.youtube.com/watch?v=S5wcE3aAZZc",
         "https://www.youtube.com/watch?v=0kWidNV5s3w"
@@ -319,7 +319,7 @@
       ]
     }, {
       "title": "Don't Give Up",
-      "queries": ["don't give up"],
+      "queries": ["don\\'?t give up"],
       "media": [
         "https://www.youtube.com/watch?v=97PCZFThkVM"
       ]
