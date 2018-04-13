@@ -391,14 +391,16 @@
       "title": "Say Yes",
       "queries": ["say yes"],
       "media": [
-        "https://www.youtube.com/watch?v=-5wuWmLdBLc"
+        "https://www.youtube.com/watch?v=-5wuWmLdBLc",
+        "https://www.youtube.com/watch?v=PCd6PDScjIE"
       ]
     }, {
       "title": "What Is Love?",
       "queries": ["what is love"],
       "media": [
         "https://www.youtube.com/watch?v=i0p1bmr0EmE",
-        "https://www.youtube.com/watch?v=y9DxUmPM8pQ"
+        "https://www.youtube.com/watch?v=y9DxUmPM8pQ",
+        "https://www.youtube.com/watch?v=x8FSmn4oWiw"
       ]
     }
   ]
