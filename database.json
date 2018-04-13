@@ -71,7 +71,8 @@
         "https://www.youtube.com/watch?v=MU0qQcSt06Q",
         "https://www.youtube.com/watch?v=NgNuzO5hsVk",
         "https://www.youtube.com/watch?v=GoLvhh89law",
-        "https://www.youtube.com/watch?v=vsTJCD4R7lI"
+        "https://www.youtube.com/watch?v=vsTJCD4R7lI",
+        "https://www.youtube.com/watch?v=8Ju_JoRzpXU"
       ]
     }, {
       "title": "TT",
@@ -93,11 +94,12 @@
         "https://giphy.com/gifs/3ofT5CWFBm5DxnD4eQ/html5",
         "https://giphy.com/gifs/3ofT5Vuc8G8mwhX5lu/html5",
         "https://giphy.com/gifs/3ofT5H7BbwQJR3xvMs/html5",
-        "https://www.youtube.com/watch?v=4c4ShjoGAXA"
+        "https://www.youtube.com/watch?v=4c4ShjoGAXA",
+        "https://www.youtube.com/watch?v=-HCMIt1mj9E"
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["k\\s?n\\s?o\\s?c\\s?k"],
+      "queries": ["(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"],
       "media": [
         "https://youtu.be/8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
@@ -138,7 +140,8 @@
         "https://www.youtube.com/watch?v=Fq9EcQnUIXg",
         "https://www.youtube.com/watch?v=L7_i-r9mo9w",
         "https://www.youtube.com/watch?v=t9ETveuWsaU",
-        "https://www.youtube.com/watch?v=oUrOAxVbieo"
+        "https://www.youtube.com/watch?v=oUrOAxVbieo",
+        "https://www.youtube.com/watch?v=r7joy42y70o"
       ]
     }, {
       "title": "Like OOH-AHH",
@@ -377,6 +380,25 @@
       "media": [
         "https://www.youtube.com/watch?v=B0UA3bhu2j0",
         "https://www.youtube.com/watch?v=4xX0Q3-pycw"
+      ]
+    }, {
+      "title": "Gashina",
+      "queries": ["gashina"],
+      "media": [
+        "https://www.youtube.com/watch?v=FfjsmKvMDJk"
+      ]
+    }, {
+      "title": "Say Yes",
+      "queries": ["say yes"],
+      "media": [
+        "https://www.youtube.com/watch?v=-5wuWmLdBLc"
+      ]
+    }, {
+      "title": "What Is Love?",
+      "queries": ["what is love"],
+      "media": [
+        "https://www.youtube.com/watch?v=i0p1bmr0EmE",
+        "https://www.youtube.com/watch?v=y9DxUmPM8pQ"
       ]
     }
   ]
