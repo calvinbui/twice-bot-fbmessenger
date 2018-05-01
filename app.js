@@ -1,6 +1,7 @@
 const login = require('facebook-chat-api');
 const fs = require('fs');
 
+// async json loading
 const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
 const peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
@@ -41,7 +42,7 @@ login({
       }, message.threadID);
     }
 
-    // reacto to message with heart eyes
+    // react to message with heart eyes
     function sendReaction() {
       api.setMessageReaction(':heart_eyes:', message.messageID, (err) => {
         if (err) {
@@ -61,10 +62,10 @@ login({
           // test if regex matches
           if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[,.]?(?!\\S)`, 'i').test(message.body)) {
             console.log(`Message received: ${message.body}`);
-            // call video file with random media file
-            sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
             // react to message
             sendReaction();
+            // return random media file from db
+            sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
           }
         }
       }
