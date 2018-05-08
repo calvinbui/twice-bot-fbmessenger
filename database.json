@@ -206,7 +206,11 @@
         "https://giphy.com/gifs/3ofSBxMV5fAcajc1uE/html5",
         "https://giphy.com/gifs/xUySTQLIzfC0or89ig/html5",
         "https://giphy.com/gifs/xUySTZCaBh7rMyu0zm/html5",
-        "https://giphy.com/gifs/oVfUQayWQPasE/html5"
+        "https://giphy.com/gifs/oVfUQayWQPasE/html5",
+        "https://giphy.com/gifs/xUySTNGwqzBcIrBHAk/html5",
+        "https://media1.tenor.com/images/aa7781024614344cddaded14b0633aa8/tenor.gif?itemid=11707311",
+        "https://media1.tenor.com/images/97dfab176003ed87c1189b1151a8f539/tenor.gif?itemid=7700052",
+        "https://media1.tenor.com/images/7fbc6b4b60328ac663ae828413999d7e/tenor.gif?itemid=7699998"
       ]
     }, {
       "title": "Woo Hoo",
@@ -457,6 +461,45 @@
         "https://www.youtube.com/watch?v=s_WDHIwgR0E",
         "https://www.youtube.com/watch?v=Ss2cW62zrxQ",
         "https://www.youtube.com/watch?v=7TravthhQBc"
+      ]
+    }, {
+      "title": "Ghost",
+      "queries": ["ghost"],
+      "media": [
+        "https://media1.tenor.com/images/e2fd389296160d1879cc24b7e8b3c0aa/tenor.gif?itemid=11598038"
+      ]
+    }, {
+      "title": "Pulp Fiction",
+      "queries": ["pulp fiction"],
+      "media": [
+        "https://media1.tenor.com/images/b5227f4dd76e37e7f1150d2f0b64868e/tenor.gif?itemid=11720129"
+      ]
+    }, {
+      "title": "La La Land",
+      "queries": ["la la land"],
+      "media": [
+        "https://media1.tenor.com/images/be4f99f9bc1f42a9b56597f6b7e6af61/tenor.gif?itemid=11598034"
+      ]
+    }, {
+      "title": "#twiceout",
+      "queries": ["#twiceout"],
+      "media": [
+        "https://media1.tenor.com/images/77a5d55cce54f34e053cf4ee7c160b24/tenor.gif?itemid=6154235",
+        "https://media1.tenor.com/images/b2efb64c232a1e33884da7d1c7a39254/tenor.gif?itemid=10623204",
+        "https://media1.tenor.com/images/dbe41fd2c8a39eb0a11a74ecd3f9c45d/tenor.gif?itemid=10365634",
+        "https://media1.tenor.com/images/21b34f387e8074e3655a978cd3a6bc9c/tenor.gif?itemid=7412823",
+        "https://media.tenor.com/images/9a3429b7e7831cdccb81c09dc9c933e7/tenor.gif",
+        "https://media1.tenor.com/images/7825260e29ec756e4ac0f75ee487c8c0/tenor.gif?itemid=9277467",
+        "https://media1.tenor.com/images/5083b1f1eb34ce3a9ad99ae6165f16d6/tenor.gif?itemid=11597767"
+      ]
+    }, {
+      "title": "#twicein",
+      "queries": ["#twicein"],
+      "media": [
+        "https://media1.tenor.com/images/e1e993785a6cf8367de941edc6bf2144/tenor.gif?itemid=11162509",
+        "https://media.tenor.com/images/3e1e69d5fbbdd61d69f5cfc0585c95a5/tenor.gif",
+        "https://media1.tenor.com/images/9ea2bb94d3c85e6c59eebd15352d77d1/tenor.gif?itemid=8313878",
+        "https://media.tenor.com/images/4ddb7b3ca278f66f2558917ba19a9acc/tenor.gif"
       ]
     }
   ]
