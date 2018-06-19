@@ -3,7 +3,7 @@ const fs = require('fs');
 
 // async json loading
 const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
-const peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
+const peopleToIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
@@ -51,7 +51,7 @@ login({
       });
     }
 
-    if (peopletoIgnore.indexOf(message.senderID) === -1) {
+    if (peopleToIgnore.indexOf(message.senderID) === -1) {
       if (err) {
         process.exit(1);
       }
