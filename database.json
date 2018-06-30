@@ -158,7 +158,8 @@
         "https://www.youtube.com/watch?v=WEqu-5lBC0U",
         "https://www.youtube.com/watch?v=2YwRXEC5gXo",
         "https://www.youtube.com/watch?v=5UwnxBvat04",
-        "https://www.youtube.com/watch?v=eM79uTTjRLk"
+        "https://www.youtube.com/watch?v=eM79uTTjRLk",
+        "https://www.youtube.com/watch?v=v4gmuhAPzfs"
       ]
     }, {
       "title": "Signal",
@@ -275,7 +276,8 @@
       "queries": ["so+ ho+t"],
       "media": [
         "https://www.youtube.com/watch?v=hhCbrsROnv0",
-        "https://youtu.be/lK0qFtRUGFQ?t=1m51s"
+        "https://youtu.be/lK0qFtRUGFQ?t=1m51s",
+        "https://www.youtube.com/watch?v=sqRwJPmhy0w"
       ]
     }, {
       "title": "Truth",
@@ -460,7 +462,8 @@
         "https://www.youtube.com/watch?v=2dW519vELuc",
         "https://www.youtube.com/watch?v=s_WDHIwgR0E",
         "https://www.youtube.com/watch?v=Ss2cW62zrxQ",
-        "https://www.youtube.com/watch?v=7TravthhQBc"
+        "https://www.youtube.com/watch?v=7TravthhQBc",
+        "https://www.youtube.com/watch?v=cE44ONdjmVs"
       ]
     }, {
       "title": "Ghost",
@@ -519,7 +522,8 @@
       "title": "i want you back",
       "queries": ["i want (\\w\\s?)+ back"],
       "media": [
-        "https://www.youtube.com/watch?v=X3H-4crGD6k"
+        "https://www.youtube.com/watch?v=X3H-4crGD6k",
+        "https://www.youtube.com/watch?v=t_HKBOv_YpI"
       ]
     }
   ]
