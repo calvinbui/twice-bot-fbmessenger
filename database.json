@@ -573,6 +573,14 @@
         "https://www.youtube.com/watch?v=X3H-4crGD6k",
         "https://www.youtube.com/watch?v=t_HKBOv_YpI"
       ]
+    }, {
+      "title": "dance the night away",
+      "queries": ["dance \\.\\* night"],
+      "media": [
+        "https://www.youtube.com/watch?v=Fm5iP0S1z9w",
+        "https://www.youtube.com/watch?v=_eQmGhvr5U4",
+        "https://www.youtube.com/watch?v=mr5bu2cxdzU"
+      ]
     }
   ]
 }
