@@ -20,7 +20,9 @@ login({
   console.log('Bot started');
   // reply when i talk to myself
   api.setOptions({
-    selfListen: true
+    selfListen: true,
+    // Choose from either `"silly"`, `"verbose"`, `"info"`, `"http"`, `"warn"`, `"error"`, or `"silent"`.
+    logLevel: "http"
   });
 
   /* activate to get threadinfo
