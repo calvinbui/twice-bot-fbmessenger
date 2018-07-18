@@ -4,7 +4,7 @@
 docker pull calvinbui/twice-bot-fbmessenger
 
 # delete old image
-docker rm --force twice
+docker rm --force twice || true
 
 # run new image with credentials
 docker run -d \
