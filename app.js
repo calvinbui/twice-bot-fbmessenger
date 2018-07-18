@@ -65,7 +65,7 @@ login({
           if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[,.]?(?!\\S)`, 'i').test(message.body)) {
             console.log(`Message received: ${message.body}`);
             // react to message
-            sendReaction();
+            // sendReaction();
             // return random media file from db
             sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
           }
