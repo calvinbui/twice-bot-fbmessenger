@@ -20,7 +20,7 @@
       ]
     }, {
       "title": "4 Minutes",
-      "queries": ["(4|four) min[utes][s]"],
+      "queries": ["(4|four)\\s?min[utes][s]"],
       "media": [
         "https://www.youtube.com/watch?v=fswAkXsjxEk"
       ]
@@ -51,7 +51,11 @@
         "https://www.youtube.com/watch?v=K6DQyEoPAeQ",
         "https://www.youtube.com/watch?v=T77-1K7e7H0",
         "https://giphy.com/gifs/cKbINGRezZkRi/html5",
-        "https://www.youtube.com/watch?v=9xejLtGvAS4"
+        "https://www.youtube.com/watch?v=LfbFEOzA4y4",
+        "https://www.youtube.com/watch?v=04MFYji9yFo",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c?t=3m22s",
+        "https://www.youtube.com/watch?v=pVMj_jH7dHU",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c"
       ]
     }, {
       "title": "Likey",
@@ -71,20 +75,20 @@
         "https://www.youtube.com/watch?v=MU0qQcSt06Q",
         "https://www.youtube.com/watch?v=NgNuzO5hsVk",
         "https://www.youtube.com/watch?v=GoLvhh89law",
-        "https://www.youtube.com/watch?v=vsTJCD4R7lI"
+        "https://www.youtube.com/watch?v=vsTJCD4R7lI",
+        "https://www.youtube.com/watch?v=8Ju_JoRzpXU"
       ]
     }, {
       "title": "TT",
       "queries": ["t(\\.|\\ |)t"],
       "media": [
-        "https://youtu.be/ePpPVE-GGJw?t=27s",
-        "https://youtu.be/t35H2BVq490?t=20s",
-        "https://youtu.be/aIotMK_TxWk?t=55s",
+        "https://www.youtube.com/watch?v=ePpPVE-GGJw?t=27s",
+        "https://www.youtube.com/watch?v=t35H2BVq490?t=20s",
+        "https://www.youtube.com/watch?v=aIotMK_TxWk?t=55s",
         "https://www.youtube.com/watch?v=6m2HnILWGc8",
         "https://www.youtube.com/watch?v=t35H2BVq490",
         "https://www.youtube.com/watch?v=9uypQGzzhns",
         "https://www.youtube.com/watch?v=e68uLF_Knng",
-        "https://www.youtube.com/watch?v=9uypQGzzhns",
         "https://www.youtube.com/watch?v=0kFysgVv9ZQ",
         "https://www.youtube.com/watch?v=Ur2Uva68jKg",
         "https://giphy.com/gifs/xUySTSw1cAhgl2fnS8/html5",
@@ -93,19 +97,41 @@
         "https://giphy.com/gifs/3ofT5CWFBm5DxnD4eQ/html5",
         "https://giphy.com/gifs/3ofT5Vuc8G8mwhX5lu/html5",
         "https://giphy.com/gifs/3ofT5H7BbwQJR3xvMs/html5",
-        "https://www.youtube.com/watch?v=4c4ShjoGAXA"
+        "https://www.youtube.com/watch?v=4c4ShjoGAXA",
+        "https://www.youtube.com/watch?v=-HCMIt1mj9E",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c?t=1m52s",
+        "https://www.youtube.com/watch?v=uA6Vferjsyw",
+        "https://www.youtube.com/watch?v=pVMj_jH7dHU",
+        "https://www.youtube.com/watch?v=yRkCsFq9Mkk",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c",
+        "https://www.youtube.com/watch?v=KkNfEQgYUgA",
+        "https://www.youtube.com/watch?v=3DQFgmZrk2A",
+        "https://www.youtube.com/watch?v=GoFg7Eiz3eM",
+        "https://www.youtube.com/watch?v=gAJwOJXixB0",
+        "https://www.youtube.com/watch?v=8pZPhmedV8Y",
+        "https://www.youtube.com/watch?v=lwlnWHDOHUk",
+        "https://www.youtube.com/watch?v=sfemexNtXCE",
+        "https://www.youtube.com/watch?v=tcRjHBWfzBY",
+        "https://www.youtube.com/watch?v=VfWDlUmrv3s",
+        "https://www.youtube.com/watch?v=yjjB2R-sTgw",
+        "https://www.youtube.com/watch?v=rpp3gN_KPa0",
+        "https://www.youtube.com/watch?v=JNww2PLRjAo",
+        "https://www.youtube.com/watch?v=vVWU4AWd7_M",
+        "https://www.youtube.com/watch?v=W-OqJlHpo4g",
+        "https://www.youtube.com/watch?v=cYb-76RQWd4",
+        "https://www.youtube.com/watch?v=gO-9S_r_NtI"
       ]
     }, {
       "title": "Knock Knock",
-      "queries": ["k\\s?n\\s?o\\s?c\\s?k"],
+      "queries": ["(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"],
       "media": [
-        "https://youtu.be/8A2t_tAjMz8",
+        "https://www.youtube.com/watch?v=8A2t_tAjMz8",
         "https://www.youtube.com/watch?v=uV7255J1Nrw",
-        "https://youtu.be/PVpMNQVE8dQ?t=15s",
+        "https://www.youtube.com/watch?v=PVpMNQVE8dQ?t=15s",
         "https://www.youtube.com/watch?v=idOQFSu_4Ok",
         "https://www.youtube.com/watch?v=If_EBdR2DlY",
         "https://www.youtube.com/watch?v=yi_OCnQIL_g",
-        "https://youtu.be/Pqzv8qzVusI?t=10s",
+        "https://www.youtube.com/watch?v=Pqzv8qzVusI?t=10s",
         "https://www.youtube.com/watch?v=v5_kiqmSjUE",
         "https://www.youtube.com/watch?v=KvGdJEKpOfI",
         "https://www.youtube.com/watch?v=XfSChK5K4Sc",
@@ -122,13 +148,21 @@
         "https://giphy.com/gifs/xUySTEVkaAeeATXpoQ/html5",
         "https://giphy.com/gifs/3ofT5GNMCoRsNxf4sM/html5",
         "https://giphy.com/gifs/xUySTIOdORISCW2gH6/html5",
-        "https://www.youtube.com/watch?v=9xejLtGvAS4"
+        "https://www.youtube.com/watch?v=9xejLtGvAS4",
+        "https://www.youtube.com/watch?v=jEQcj40AvXA",
+        "https://www.youtube.com/watch?v=zZyKisXWv4U",
+        "https://www.youtube.com/watch?v=iB9TLxvMFOE",
+        "https://www.youtube.com/watch?v=byjpaGbGsNQ",
+        "https://www.youtube.com/watch?v=2kwZmNgRbT8",
+        "https://www.youtube.com/watch?v=5ZNrWw9k9jk",
+        "https://www.youtube.com/watch?v=Zqz78jMHAGk",
+        "https://www.youtube.com/watch?v=s5KkjXhg1o8"
       ]
     }, {
       "title": "Cheer Up",
-      "queries": ["cheer(\\ me\\ |\\ )up", "cheer me up"],
+      "queries": ["cheer(\\ me\\ |\\ )up", "cheer me up", "cheer up"],
       "media": [
-        "https://youtu.be/c7rCyll5AeY",
+        "https://www.youtube.com/watch?v=c7rCyll5AeY",
         "https://www.youtube.com/watch?v=1Kg4yomNEgs",
         "https://www.youtube.com/watch?v=3tgvMMLWgqk",
         "https://www.youtube.com/watch?v=VWWX3ovopfA",
@@ -138,43 +172,67 @@
         "https://www.youtube.com/watch?v=Fq9EcQnUIXg",
         "https://www.youtube.com/watch?v=L7_i-r9mo9w",
         "https://www.youtube.com/watch?v=t9ETveuWsaU",
-        "https://www.youtube.com/watch?v=oUrOAxVbieo"
+        "https://www.youtube.com/watch?v=oUrOAxVbieo",
+        "https://www.youtube.com/watch?v=r7joy42y70o",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c",
+        "https://www.youtube.com/watch?v=pVMj_jH7dHU",
+        "https://www.youtube.com/watch?v=JOd_OKGRM0c",
+        "https://www.youtube.com/watch?v=KkNfEQgYUgA",
+        "https://www.youtube.com/watch?v=WY_w7k_So_k"
       ]
     }, {
       "title": "Like OOH-AHH",
       "queries": ["oo+hh+", "a+hh+"],
       "media": [
-        "https://youtu.be/0rtV5esQT6I",
+        "https://www.youtube.com/watch?v=0rtV5esQT6I",
         "https://www.youtube.com/watch?v=YMxQyrxhHXA",
         "https://www.youtube.com/watch?v=vYkGpOeqp4g",
         "https://www.youtube.com/watch?v=WEqu-5lBC0U",
         "https://www.youtube.com/watch?v=2YwRXEC5gXo",
         "https://www.youtube.com/watch?v=5UwnxBvat04",
-        "https://www.youtube.com/watch?v=eM79uTTjRLk"
+        "https://www.youtube.com/watch?v=eM79uTTjRLk",
+        "https://www.youtube.com/watch?v=v4gmuhAPzfs",
+        "https://www.youtube.com/watch?v=2GMLViJkWiQ",
+        "https://www.youtube.com/watch?v=ZaIYWJ9v0yc",
+        "https://www.youtube.com/watch?v=ln-Eg35rVsw",
+        "https://www.youtube.com/watch?v=ed2XT5j3hJg",
+        "https://www.youtube.com/watch?v=aTFbIfoSXVo",
+        "https://www.youtube.com/watch?v=WXyG7AZtMwQ",
+        "https://www.youtube.com/watch?v=Yeehmrk4AUo",
+        "https://www.youtube.com/watch?v=tkgYw_gS2k4",
+        "https://www.youtube.com/watch?v=LgIG2CAEb_8",
+        "https://www.youtube.com/watch?v=i1HnMlaTQUs",
+        "https://www.youtube.com/watch?v=r4ZPco3OMpg",
+        "https://www.youtube.com/watch?v=NjwQaEmcVqs",
+        "https://www.youtube.com/watch?v=5KM8yc6PtOg",
+        "https://www.youtube.com/watch?v=t77P-LwnC_4",
+        "https://www.youtube.com/watch?v=KVYQnHR46HA",
+        "https://www.youtube.com/watch?v=1TYfpXMdyXo",
+        "https://www.youtube.com/watch?v=WHBbhMqGpkc"
       ]
     }, {
       "title": "Signal",
       "queries": ["signal*s?i?n?g?"],
       "media": [
-        "https://youtu.be/VQtonf1fv_s?t=35s",
+        "https://www.youtube.com/watch?v=VQtonf1fv_s?t=35s",
         "https://www.youtube.com/watch?v=EpMwiqW8k8o",
         "https://www.youtube.com/watch?v=TRijPlol9D8",
         "https://www.youtube.com/watch?v=JYm7eZVny5A",
         "https://www.youtube.com/watch?v=-4TqsacRcFM",
         "https://www.youtube.com/watch?v=vdUYWwHSA-E",
         "https://www.youtube.com/watch?v=Nz34eXA_D7M",
-        "https://youtu.be/n0fXNcwM0pk?t=15s",
+        "https://www.youtube.com/watch?v=n0fXNcwM0pk?t=15s",
         "https://giphy.com/gifs/l3fZMdKhhzLZuSF2g/html5",
         "https://www.youtube.com/watch?v=4c4ShjoGAXA",
         "https://www.youtube.com/watch?v=8e8g_arMluI"
       ]
     }, {
       "title": "Touchdown",
-      "queries": ["touchdown", "td+"],
+      "queries": ["touchdown"],
       "media": [
         "https://www.youtube.com/watch?v=a2rRdbSRbRM",
-        "https://youtu.be/9YnlX1lSWHg?t=2s",
-        "https://youtu.be/q7G7kkVE7zA?t=10s"
+        "https://www.youtube.com/watch?v=9YnlX1lSWHg?t=2s",
+        "https://www.youtube.com/watch?v=q7G7kkVE7zA?t=10s"
       ]
     }, {
       "title": "Gee",
@@ -198,11 +256,15 @@
         "https://giphy.com/gifs/3ofSBxMV5fAcajc1uE/html5",
         "https://giphy.com/gifs/xUySTQLIzfC0or89ig/html5",
         "https://giphy.com/gifs/xUySTZCaBh7rMyu0zm/html5",
-        "https://giphy.com/gifs/oVfUQayWQPasE/html5"
+        "https://giphy.com/gifs/oVfUQayWQPasE/html5",
+        "https://giphy.com/gifs/xUySTNGwqzBcIrBHAk/html5",
+        "https://media1.tenor.com/images/aa7781024614344cddaded14b0633aa8/tenor.gif?itemid=11707311",
+        "https://media1.tenor.com/images/97dfab176003ed87c1189b1151a8f539/tenor.gif?itemid=7700052",
+        "https://media1.tenor.com/images/7fbc6b4b60328ac663ae828413999d7e/tenor.gif?itemid=7699998"
       ]
     }, {
       "title": "Woo Hoo",
-      "queries": ["woo+"],
+      "queries": ["woo+hoo+"],
       "media": [
         "https://www.youtube.com/watch?v=5RrU2KgkK9w",
         "https://www.youtube.com/watch?v=8Yv8lPz9I6U",
@@ -225,7 +287,7 @@
       ]
     }, {
       "title": "Like A Fool",
-      "queries": ["(u|a|you) foo+l"],
+      "queries": ["like a foo+l"],
       "media": [
         "https://www.youtube.com/watch?v=sc9AAtx72ms",
         "https://www.youtube.com/watch?v=cn_fvqJf1uw",
@@ -256,14 +318,15 @@
       "queries": ["h(o|u)+(ne|nn)y"],
       "media": [
         "https://www.youtube.com/watch?v=qkFFHunju1o",
-        "https://youtu.be/wmXlymC8HOQ?t=3m12s"
+        "https://www.youtube.com/watch?v=wmXlymC8HOQ?t=3m12s"
       ]
     }, {
       "title": "So Hot",
       "queries": ["so+ ho+t"],
       "media": [
         "https://www.youtube.com/watch?v=hhCbrsROnv0",
-        "https://youtu.be/lK0qFtRUGFQ?t=1m51s"
+        "https://www.youtube.com/watch?v=lK0qFtRUGFQ?t=1m51s",
+        "https://www.youtube.com/watch?v=sqRwJPmhy0w"
       ]
     }, {
       "title": "Truth",
@@ -281,7 +344,7 @@
       ]
     }, {
       "title": "Luv Me",
-      "queries": ["l(u|o)+v+e* (me+|you+|u+)"],
+      "queries": ["l(u|o)+v+e* me"],
       "media": [
         "https://www.youtube.com/watch?v=S5wcE3aAZZc",
         "https://www.youtube.com/watch?v=0kWidNV5s3w"
@@ -319,7 +382,7 @@
       ]
     }, {
       "title": "Don't Give Up",
-      "queries": ["don't give up"],
+      "queries": ["don\\'?t give up"],
       "media": [
         "https://www.youtube.com/watch?v=97PCZFThkVM"
       ]
@@ -361,7 +424,194 @@
       "queries": ["nba"],
       "media": [
         "https://www.youtube.com/watch?v=pqbC6r0KTs0",
-        "https://www.youtube.com/watch?v=_rCSgSakCTo"
+        "https://www.youtube.com/watch?v=_rCSgSakCTo",
+        "https://www.instagram.com/p/BGqiKSdBB32",
+        "https://www.instagram.com/p/BEnlw5pBB3Z",
+        "https://www.instagram.com/p/BEnlvW5hB3W",
+        "https://www.instagram.com/p/BEnlsjzBB3O",
+        "https://www.instagram.com/p/BEnlrSXBB3L",
+        "https://www.instagram.com/p/BEnlosKBB3F",
+        "https://www.instagram.com/p/BDfheqahB9G",
+        "https://www.instagram.com/p/BCwOmWrhByL",
+        "https://www.instagram.com/p/BCwOkHaBByJ",
+        "https://www.instagram.com/p/BCwOgL8hByA",
+        "https://www.instagram.com/p/BCwOdaZBBx6",
+        "https://www.instagram.com/p/BCwOblUBBx1",
+        "https://www.instagram.com/p/BQAabjTDuEO",
+        "https://www.instagram.com/p/BQAaZmGDqkA",
+        "https://www.instagram.com/p/BQAaYaKjT4b",
+        "https://www.instagram.com/p/BOioi08j2jg",
+        "https://www.instagram.com/p/BNLC17EDyu1",
+        "https://www.instagram.com/p/BMlXrvoDCz_",
+        "https://www.instagram.com/p/BMN659BDREB",
+        "https://www.instagram.com/p/BMN64icjUZ4",
+        "https://www.instagram.com/p/BLImXfxD5ov",
+        "https://www.instagram.com/p/BJrGoY4DbVq"
+      ]
+    }, {
+      "title": "Sailor Moon",
+      "queries": ["sailor (moon|mars|mercury|jupiter|venus|chibi|pluto|uranus|neptune|saturn|starlights)"],
+      "media": [
+        "https://www.youtube.com/watch?v=zbFQwiSyqdI",
+        "https://www.youtube.com/watch?v=tPdtTJDdWhI",
+        "https://www.youtube.com/watch?v=xPZHucs808g"
+      ]
+    }, {
+      "title": "Nike",
+      "queries": ["nike|nikes|airmax|air max"],
+      "media": [
+        "https://www.youtube.com/watch?v=B0UA3bhu2j0",
+        "https://www.youtube.com/watch?v=4xX0Q3-pycw"
+      ]
+    }, {
+      "title": "Gashina",
+      "queries": ["gashina"],
+      "media": [
+        "https://www.youtube.com/watch?v=FfjsmKvMDJk"
+      ]
+    }, {
+      "title": "Say Yes",
+      "queries": ["say yes"],
+      "media": [
+        "https://www.youtube.com/watch?v=-5wuWmLdBLc",
+        "https://www.youtube.com/watch?v=PCd6PDScjIE",
+        "https://www.youtube.com/watch?v=MQfBJjZMp6s",
+        "https://www.youtube.com/watch?v=aggc4PD--Gk",
+        "https://www.youtube.com/watch?v=8wUiynQ6544"
+      ]
+    }, {
+      "title": "What Is Love?",
+      "queries": ["what is love"],
+      "media": [
+        "https://www.youtube.com/watch?v=i0p1bmr0EmE",
+        "https://www.youtube.com/watch?v=y9DxUmPM8pQ",
+        "https://www.youtube.com/watch?v=x8FSmn4oWiw",
+        "https://www.youtube.com/watch?v=DLMz1p4Nz58",
+        "https://www.youtube.com/watch?v=V0_3jQpudu4",
+        "https://www.youtube.com/watch?v=aggc4PD--Gk?t=1m36s",
+        "https://www.youtube.com/watch?v=_mLQjUIxLfM",
+        "https://www.youtube.com/watch?v=iIpGPTEorhQ",
+        "https://www.youtube.com/watch?v=WhHEQ-W3x5Y",
+        "https://www.youtube.com/watch?v=aMDhcLPL8nA",
+        "https://www.youtube.com/watch?v=QpiZjTFU64o",
+        "https://www.youtube.com/watch?v=PNlwws0hip8",
+        "https://www.youtube.com/watch?v=KffHoi3JRS8",
+        "https://www.youtube.com/watch?v=QHqG0sl393Q",
+        "https://www.youtube.com/watch?v=YKR4keBGtQg",
+        "https://www.youtube.com/watch?v=oVT2YI4p_xs",
+        "https://www.youtube.com/watch?v=92H5TyOyUnU",
+        "https://www.youtube.com/watch?v=2fYQPgK0kmQ",
+        "https://www.youtube.com/watch?v=5qsiG0wXH-s",
+        "https://www.youtube.com/watch?v=LXOYMv2brJo",
+        "https://www.youtube.com/watch?v=iSd75bfpAag",
+        "https://www.youtube.com/watch?v=EXEqGtwasFs",
+        "https://www.youtube.com/watch?v=bvDRpaz-tOY",
+        "https://www.youtube.com/watch?v=ZlFbenYA4ZI",
+        "https://www.youtube.com/watch?v=m9zUVFVTjnE",
+        "https://www.youtube.com/watch?v=2dW519vELuc",
+        "https://www.youtube.com/watch?v=s_WDHIwgR0E",
+        "https://www.youtube.com/watch?v=Ss2cW62zrxQ",
+        "https://www.youtube.com/watch?v=7TravthhQBc",
+        "https://www.youtube.com/watch?v=cE44ONdjmVs"
+      ]
+    }, {
+      "title": "Ghost",
+      "queries": ["ghost"],
+      "media": [
+        "https://media1.tenor.com/images/e2fd389296160d1879cc24b7e8b3c0aa/tenor.gif?itemid=11598038"
+      ]
+    }, {
+      "title": "Pulp Fiction",
+      "queries": ["pulp fiction"],
+      "media": [
+        "https://media1.tenor.com/images/b5227f4dd76e37e7f1150d2f0b64868e/tenor.gif?itemid=11720129"
+      ]
+    }, {
+      "title": "La La Land",
+      "queries": ["la la land"],
+      "media": [
+        "https://media1.tenor.com/images/be4f99f9bc1f42a9b56597f6b7e6af61/tenor.gif?itemid=11598034"
+      ]
+    }, {
+      "title": "#twiceout",
+      "queries": ["#twiceout"],
+      "media": [
+        "https://media1.tenor.com/images/77a5d55cce54f34e053cf4ee7c160b24/tenor.gif?itemid=6154235",
+        "https://media1.tenor.com/images/b2efb64c232a1e33884da7d1c7a39254/tenor.gif?itemid=10623204",
+        "https://media1.tenor.com/images/dbe41fd2c8a39eb0a11a74ecd3f9c45d/tenor.gif?itemid=10365634",
+        "https://media1.tenor.com/images/21b34f387e8074e3655a978cd3a6bc9c/tenor.gif?itemid=7412823",
+        "https://media.tenor.com/images/9a3429b7e7831cdccb81c09dc9c933e7/tenor.gif",
+        "https://media1.tenor.com/images/7825260e29ec756e4ac0f75ee487c8c0/tenor.gif?itemid=9277467",
+        "https://media1.tenor.com/images/5083b1f1eb34ce3a9ad99ae6165f16d6/tenor.gif?itemid=11597767",
+        "https://media1.tenor.com/images/6f85edfb72ba39505ffee90947103ee5/tenor.gif?itemid=9973123"
+      ]
+    }, {
+      "title": "#twicein",
+      "queries": ["#twicein"],
+      "media": [
+        "https://media1.tenor.com/images/e1e993785a6cf8367de941edc6bf2144/tenor.gif?itemid=11162509",
+        "https://media.tenor.com/images/3e1e69d5fbbdd61d69f5cfc0585c95a5/tenor.gif",
+        "https://media1.tenor.com/images/9ea2bb94d3c85e6c59eebd15352d77d1/tenor.gif?itemid=8313878",
+        "https://media.tenor.com/images/4ddb7b3ca278f66f2558917ba19a9acc/tenor.gif",
+        "https://media1.tenor.com/images/ceb8b177b8b44722ada9572562bdee69/tenor.gif?itemid=9973127",
+        "https://media1.tenor.com/images/ef122740085e56ba84d41f2c72386a6b/tenor.gif?itemid=10499699",
+        "https://media1.tenor.com/images/c20db3e2001137bb80976e21e6faa80f/tenor.gif?itemid=9591457",
+        "https://media1.tenor.com/images/ad58bcc1c1a9bc1df66ecc4540f25847/tenor.gif?itemid=9591129"
+      ]
+    }, {
+      "title": "pocari",
+      "queries": ["pocari"],
+      "media": [
+        "https://www.youtube.com/watch?v=RRu-Ehf4EyM",
+        "https://www.youtube.com/watch?v=5xup1SlgdhY",
+        "https://www.youtube.com/watch?v=C9IxgpVMdrw",
+        "https://www.youtube.com/watch?v=A1uRMUfmpOs"
+      ]
+    }, {
+      "title": "i want you back",
+      "queries": ["i want (\\w\\s?)+ back"],
+      "media": [
+        "https://www.youtube.com/watch?v=X3H-4crGD6k",
+        "https://www.youtube.com/watch?v=t_HKBOv_YpI"
+      ]
+    }, {
+      "title": "dance the night away",
+      "queries": ["dance the night away"],
+      "media": [
+        "https://www.youtube.com/watch?v=Fm5iP0S1z9w",
+        "https://www.youtube.com/watch?v=_eQmGhvr5U4",
+        "https://www.youtube.com/watch?v=mr5bu2cxdzU",
+        "https://www.youtube.com/watch?v=SCLPree2x_E",
+        "https://www.youtube.com/watch?v=1DmvKS2maQY",
+        "https://www.youtube.com/watch?v=6bT2CA9DS6o",
+        "https://www.youtube.com/watch?v=GNUSpZtfwkQ",
+        "https://www.youtube.com/watch?v=navO2R3ZgGg",
+        "https://www.youtube.com/watch?v=i9zVakPBcGM",
+        "https://www.youtube.com/watch?v=Exp_REHm2Jw",
+        "https://www.youtube.com/watch?v=t4nedSxJvqU",
+        "https://www.youtube.com/watch?v=DpNNc8AVsjY",
+        "https://www.youtube.com/watch?v=Nb_PXUI_mfE",
+        "https://www.youtube.com/watch?v=cyeM7AL8t4g",
+        "https://www.youtube.com/watch?v=R7KkAHgpwbs",
+        "https://www.youtube.com/watch?v=g9G4xLUX2is",
+        "https://www.youtube.com/watch?v=XHy2Oo_2ZfU",
+        "https://www.youtube.com/watch?v=6GVaKvpHu20",
+        "https://www.youtube.com/watch?v=Y-jzVtM96Pk",
+        "https://www.youtube.com/watch?v=FrdxCoZ3Dew",
+        "https://www.youtube.com/watch?v=2IDgTYm_-Js",
+        "https://www.youtube.com/watch?v=c3TnAP17h3I",
+        "https://www.youtube.com/watch?v=G1qMRINqHXw",
+        "https://www.youtube.com/watch?v=CkR_MXeUp9Q",
+        "https://www.youtube.com/watch?v=YJTfOhxPFZE",
+        "https://www.youtube.com/watch?v=eYhBLBwBh1M",
+        "https://www.youtube.com/watch?v=bV3oON0nIfE",
+        "https://www.youtube.com/watch?v=k7rcIHkg3IA",
+        "https://www.youtube.com/watch?v=TbKZAKWD9Hw",
+        "https://www.youtube.com/watch?v=Q4tPMY8LbHE",
+        "https://www.youtube.com/watch?v=sN_SILC2mEI",
+        "https://www.youtube.com/watch?v=R3Mrl-rthso",
+        "https://www.youtube.com/watch?v=Ehpqxl4xo7Y",
+        "https://www.youtube.com/watch?v=8rH1JB3uyBQ"
       ]
     }
   ]

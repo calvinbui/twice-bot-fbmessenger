@@ -1,7 +1,7 @@
 {
   "name": "twice-bot",
   "version": "1.0.0",
-  "description": "Reply with TWICE youtube vids",
+  "description": "Reply with TWICE Youtube vids and gifs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -9,15 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cron": "^1.3.0",
-    "facebook-chat-api": "Schmavery/facebook-chat-api#7552ce69561ac424cf6461e4c0cd8762ae2a7b9f",
-    "self-reload-json": "^0.3.0"
-  },
-  "devDependencies": {
-    "eslint": "^4.3.0",
-    "eslint-config-airbnb": "^15.1.0",
-    "eslint-plugin-import": "^2.7.0",
-    "eslint-plugin-jsx-a11y": "^5.1.1",
-    "eslint-plugin-react": "^7.1.0"
+    "facebook-chat-api": "1.6.0"
   }
 }

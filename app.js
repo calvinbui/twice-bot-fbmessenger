@@ -1,11 +1,9 @@
 const login = require('facebook-chat-api');
 const fs = require('fs');
-const SelfReloadJSON = require('self-reload-json');
-const request = require('request');
-var CronJob = require('cron').CronJob;
 
-var db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
-var peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
+// async json loading
+const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+const peopleToIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
@@ -19,21 +17,12 @@ login({
     process.exit(1);
   }
 
-  var job = new CronJob('0 * * * * *', function() { // every minute
-    request('https://raw.githubusercontent.com/calvinbui/twice-bot-fbmessenger/master/database.json', function (error, response, body) {
-      if (!error && response.statusCode == 200) {
-        db = JSON.parse(body);
-        peopletoIgnore = JSON.stringify(db.ignoreMessagesFrom);
-        console.log('Updated database.json');
-        console.log(db)
-      }
-    })
-  }, true, 'Australia/NSW');
-
   console.log('Bot started');
   // reply when i talk to myself
   api.setOptions({
-    selfListen: true
+    selfListen: true,
+    // Choose from either `"silly"`, `"verbose"`, `"info"`, `"http"`, `"warn"`, `"error"`, or `"silent"`.
+    logLevel: "http"
   });
 
   /* activate to get threadinfo
@@ -55,7 +44,7 @@ login({
       }, message.threadID);
     }
 
-    // reacto to message with heart eyes
+    // react to message with heart eyes
     function sendReaction() {
       api.setMessageReaction(':heart_eyes:', message.messageID, (err) => {
         if (err) {
@@ -64,7 +53,7 @@ login({
       });
     }
 
-    if (peopletoIgnore.indexOf(message.senderID) === -1) {
+    if (peopleToIgnore.indexOf(message.senderID) === -1) {
       if (err) {
         process.exit(1);
       }
@@ -75,10 +64,10 @@ login({
           // test if regex matches
           if (RegExp(`(^|\\s)["']?${db.songs[song].queries[query]}[.!?]?["']?[,.]?(?!\\S)`, 'i').test(message.body)) {
             console.log(`Message received: ${message.body}`);
-            // call video file with random media file
-            sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
             // react to message
-            sendReaction();
+            // sendReaction();
+            // return random media file from db
+            sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
           }
         }
       }

@@ -47,6 +47,18 @@ The regular expression by default matches:
 -   Whitelisting users
 -   Blacklisting/Whitelisting threads
 
+## Where to get videos:
+* https://www.youtube.com/user/mnetMPD
+* https://www.youtube.com/user/LOENENT
+* https://www.youtube.com/user/KBSKpop
+* https://www.youtube.com/user/kbsworld
+* https://www.youtube.com/user/MBCkpop
+* https://www.youtube.com/user/jypentertainment
+* https://www.youtube.com/user/imbcevery1
+* https://www.youtube.com/user/tvpeopleclips
+* https://www.youtube.com/user/imbcmusic
+* https://www.youtube.com/user/Mnet
+
 # Have some Tzuyu GIFS
 
 ![](https://media.giphy.com/media/l3vQXTEZCTSc9077y/giphy.gif)
