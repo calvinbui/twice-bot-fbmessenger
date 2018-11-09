@@ -56,7 +56,8 @@
         "https://www.youtube.com/watch?v=JOd_OKGRM0c?t=3m22s",
         "https://www.youtube.com/watch?v=pVMj_jH7dHU",
         "https://www.youtube.com/watch?v=JOd_OKGRM0c",
-        "https://www.youtube.com/watch?v=sLUVs83-skk"
+        "https://www.youtube.com/watch?v=sLUVs83-skk",
+        "https://www.youtube.com/watch?v=hszrB7TiAkQ"
       ]
     }, {
       "title": "Likey",
@@ -635,7 +636,8 @@
         "https://www.youtube.com/watch?v=R3Mrl-rthso",
         "https://www.youtube.com/watch?v=Ehpqxl4xo7Y",
         "https://www.youtube.com/watch?v=svFaeJl3h9M",
-        "https://www.youtube.com/watch?v=8rH1JB3uyBQ"
+        "https://www.youtube.com/watch?v=8rH1JB3uyBQ",
+        "https://www.youtube.com/watch?v=hszrB7TiAkQ"
       ]
     }, {
       "title": "1 to 10",
@@ -663,6 +665,27 @@
         "https://www.youtube.com/watch?v=aTFbIfoSXVo",
         "https://www.youtube.com/watch?v=vEPO89SjexY",
         "https://www.youtube.com/watch?v=AsmDr5_rsQ0"
+      ]
+    }, {
+      "title": "bdz",
+      "queries": ["bdz", "bulldozer"],
+      "media": [
+        "https://www.youtube.com/watch?v=xErMEzV3bN8",
+        "https://www.youtube.com/watch?v=CMNahhgR_ss",
+        "https://www.youtube.com/watch?v=6OpPiv__Lg4",
+        "https://www.youtube.com/watch?v=MEbFTKToL3o"
+      ]
+    }, {
+      "title": "yes or yes",
+      "queries": ["yes.*yes"],
+      "media": [
+        "https://www.youtube.com/watch?v=mAKsZ26SabQ",
+        "https://www.youtube.com/watch?v=5Iio3mi6lzk",
+        "https://www.youtube.com/watch?v=VgHM_BUPLWk",
+        "https://www.youtube.com/watch?v=mQidhI5kJBs",
+        "https://www.youtube.com/watch?v=uepHh6k6wY0",
+        "https://www.youtube.com/watch?v=ltDsqbIY7EA",
+        "https://www.youtube.com/watch?v=r-vLGzfFKVA"
       ]
     }
   ]
