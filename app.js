@@ -68,6 +68,7 @@ login({
             // sendReaction();
             // return random media file from db
             sendMedia(db.songs[song].title, db.songs[song].media[Math.floor(Math.random() * db.songs[song].media.length)]);
+            break;
           }
         }
       }
