@@ -1,8 +1,8 @@
+const yaml = require('js-yaml');
 const login = require('facebook-chat-api');
 const fs = require('fs');
 
-// async json loading
-const db = JSON.parse(fs.readFileSync('database.json', 'utf8'));
+const db = yaml.safeLoad(fs.readFileSync('database.yaml', 'utf8'));
 const peopleToIgnore = JSON.stringify(db.ignoreMessagesFrom);
 const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
