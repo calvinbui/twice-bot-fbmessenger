@@ -49,7 +49,6 @@ songs:
   - https://www.youtube.com/watch?v=K6DQyEoPAeQ
   - https://www.youtube.com/watch?v=T77-1K7e7H0
   - https://giphy.com/gifs/cKbINGRezZkRi/html5
-  - https://www.youtube.com/watch?v=LfbFEOzA4y4
   - https://www.youtube.com/watch?v=04MFYji9yFo
   - https://www.youtube.com/watch?v=JOd_OKGRM0c?t=3m22s
   - https://www.youtube.com/watch?v=pVMj_jH7dHU
@@ -72,7 +71,6 @@ songs:
   - https://www.youtube.com/watch?v=OQebZnpN_wo
   - https://www.youtube.com/watch?v=7-XVJhw2brw
   - https://www.youtube.com/watch?v=MU0qQcSt06Q
-  - https://www.youtube.com/watch?v=NgNuzO5hsVk
   - https://www.youtube.com/watch?v=GoLvhh89law
   - https://www.youtube.com/watch?v=vsTJCD4R7lI
   - https://www.youtube.com/watch?v=8Ju_JoRzpXU
@@ -127,7 +125,6 @@ songs:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
   media:
   - https://www.youtube.com/watch?v=8A2t_tAjMz8
-  - https://www.youtube.com/watch?v=uV7255J1Nrw
   - https://www.youtube.com/watch?v=PVpMNQVE8dQ?t=15s
   - https://www.youtube.com/watch?v=idOQFSu_4Ok
   - https://www.youtube.com/watch?v=If_EBdR2DlY
@@ -149,7 +146,6 @@ songs:
   - https://giphy.com/gifs/xUySTEVkaAeeATXpoQ/html5
   - https://giphy.com/gifs/3ofT5GNMCoRsNxf4sM/html5
   - https://giphy.com/gifs/xUySTIOdORISCW2gH6/html5
-  - https://www.youtube.com/watch?v=9xejLtGvAS4
   - https://www.youtube.com/watch?v=jEQcj40AvXA
   - https://www.youtube.com/watch?v=zZyKisXWv4U
   - https://www.youtube.com/watch?v=iB9TLxvMFOE
@@ -251,7 +247,6 @@ songs:
   - gee+
   media:
   - https://www.youtube.com/watch?v=WaDj9JS9qag
-  - http://www.dailymotion.com/video/x3ximdw
 - title: TWICE
   queries:
   - twice
@@ -277,7 +272,6 @@ songs:
   - woo+hoo+
   media:
   - https://www.youtube.com/watch?v=5RrU2KgkK9w
-  - https://www.youtube.com/watch?v=8Yv8lPz9I6U
   - https://www.youtube.com/watch?v=2nb0GKCxs1g
 - title: Bad Girl Good Girl
   queries:
@@ -447,12 +441,6 @@ songs:
   - https://www.youtube.com/watch?v=zbFQwiSyqdI
   - https://www.youtube.com/watch?v=tPdtTJDdWhI
   - https://www.youtube.com/watch?v=xPZHucs808g
-- title: Nike
-  queries:
-  - nike|nikes|airmax|air max
-  media:
-  - https://www.youtube.com/watch?v=B0UA3bhu2j0
-  - https://www.youtube.com/watch?v=4xX0Q3-pycw
 - title: Gashina
   queries:
   - gashina
@@ -638,6 +626,8 @@ songs:
   - https://www.youtube.com/watch?v=ofmvk_O2LIM
   - https://www.youtube.com/watch?v=oyIoIUAYOv0
   - https://www.youtube.com/watch?v=_XxMX8NROjk
+  - https://www.youtube.com/watch?v=mGlpRqFX-Ls
+  - https://www.youtube.com/watch?v=Ct1Lce9lYBo
 - title: yes or yes
   queries:
   - yes.*yes
@@ -669,3 +659,5 @@ songs:
   - https://www.youtube.com/watch?v=1EwUA08yGmo
   - https://www.youtube.com/watch?v=S-_qkHu9qCo
   - https://www.youtube.com/watch?v=blxAN_WznGk
+  - https://www.youtube.com/watch?v=WJQY_ogyKaU
+  - https://www.youtube.com/watch?v=HU-2BEIEXb4
