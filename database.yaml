@@ -495,6 +495,7 @@ songs:
   - https://www.youtube.com/watch?v=UZRvsNXDKBk
   - https://www.youtube.com/watch?v=Aq7FT6RbXW0
   - https://www.youtube.com/watch?v=gKCOBSU0JoI
+  - https://www.youtube.com/watch?v=FU5ENDfKXOY
 - title: Ghost
   queries:
   - ghost
@@ -589,6 +590,7 @@ songs:
   - https://www.youtube.com/watch?v=8rH1JB3uyBQ
   - https://www.youtube.com/watch?v=hszrB7TiAkQ
   - https://www.youtube.com/watch?v=tQzaZpwmeUk
+  - https://www.youtube.com/watch?v=i3Bc5RkAnsI
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -668,6 +670,7 @@ songs:
   - https://www.youtube.com/watch?v=61-huC2XHGg
   - https://www.youtube.com/watch?v=P-9R4uZt7Jk
   - https://www.youtube.com/watch?v=tChJdbD7R3w
+  - https://www.youtube.com/watch?v=ajqDgp0-fb0
 - title: the best thing i ever did
   queries:
   - best thing
