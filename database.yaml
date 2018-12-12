@@ -667,3 +667,8 @@ songs:
   - https://www.youtube.com/watch?v=61-huC2XHGg
   - https://www.youtube.com/watch?v=P-9R4uZt7Jk
   - https://www.youtube.com/watch?v=tChJdbD7R3w
+- title: the best thing i ever did
+  queries:
+  - best thing
+  media:
+  - https://www.youtube.com/watch?v=CfUGjK6gGgs
