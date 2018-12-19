@@ -275,8 +275,8 @@ songs:
   - https://www.youtube.com/watch?v=2nb0GKCxs1g
 - title: Bad Girl Good Girl
   queries:
-  - g(u|oo)+d+ g(i|u)+rl+
-  - ba+d+ g(i|u)+rl+
+  - g(u|oo)+d+ g(i|u)+rl+s*
+  - ba+d+ g(i|u)+rl+s*
   media:
   - https://www.youtube.com/watch?v=wmXlymC8HOQ
   - https://www.youtube.com/watch?v=IbN6q00s-9A
@@ -633,6 +633,7 @@ songs:
   - https://www.youtube.com/watch?v=_XxMX8NROjk
   - https://www.youtube.com/watch?v=mGlpRqFX-Ls
   - https://www.youtube.com/watch?v=Ct1Lce9lYBo
+  - https://www.youtube.com/watch?v=m-4M-wF8zyI
 - title: yes or yes
   queries:
   - yes.*yes
@@ -671,6 +672,8 @@ songs:
   - https://www.youtube.com/watch?v=P-9R4uZt7Jk
   - https://www.youtube.com/watch?v=tChJdbD7R3w
   - https://www.youtube.com/watch?v=ajqDgp0-fb0
+  - https://www.youtube.com/watch?v=o9C45iPgLdo
+  - https://www.youtube.com/watch?v=De5_xr4c2tc
 - title: the best thing i ever did
   queries:
   - best thing
