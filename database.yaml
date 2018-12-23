@@ -75,6 +75,8 @@ songs:
   - https://www.youtube.com/watch?v=vsTJCD4R7lI
   - https://www.youtube.com/watch?v=8Ju_JoRzpXU
   - https://www.youtube.com/watch?v=XHaAQBCz4R8
+  - https://www.youtube.com/watch?v=vrI0HeMhgRc
+  - https://www.youtube.com/watch?v=P7OnbNZQ4eY
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -234,6 +236,7 @@ songs:
   - https://www.youtube.com/watch?v=P9L5QCed3ao
   - https://www.youtube.com/watch?v=Ztq4p0q_iRw
   - https://www.youtube.com/watch?v=WKpb-lt9OLU
+  - https://www.youtube.com/watch?v=1n7mH-Y5CzE
 - title: Touchdown
   queries:
   - touchdown
@@ -496,6 +499,10 @@ songs:
   - https://www.youtube.com/watch?v=Aq7FT6RbXW0
   - https://www.youtube.com/watch?v=gKCOBSU0JoI
   - https://www.youtube.com/watch?v=FU5ENDfKXOY
+  - https://www.youtube.com/watch?v=eY6xPjTrwi4
+  - https://www.youtube.com/watch?v=r0g3wa9cJPs
+  - https://www.youtube.com/watch?v=UTb7wO1ROm0
+  - https://www.youtube.com/watch?v=Jer5Iutre6Q
 - title: Ghost
   queries:
   - ghost
@@ -674,6 +681,7 @@ songs:
   - https://www.youtube.com/watch?v=ajqDgp0-fb0
   - https://www.youtube.com/watch?v=o9C45iPgLdo
   - https://www.youtube.com/watch?v=De5_xr4c2tc
+  - https://www.youtube.com/watch?v=qmV5L0jNMAU
 - title: the best thing i ever did
   queries:
   - best thing
