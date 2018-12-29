@@ -600,6 +600,9 @@ songs:
   - https://www.youtube.com/watch?v=tQzaZpwmeUk
   - https://www.youtube.com/watch?v=i3Bc5RkAnsI
   - https://www.youtube.com/watch?v=Mur8WdmSTGs
+  - https://www.youtube.com/watch?v=MEty25BecTQ
+  - https://www.youtube.com/watch?v=LVX33YZCWfA
+  - https://www.youtube.com/watch?v=HXOpBFWCzvg
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -685,6 +688,9 @@ songs:
   - https://www.youtube.com/watch?v=De5_xr4c2tc
   - https://www.youtube.com/watch?v=qmV5L0jNMAU
   - https://www.youtube.com/watch?v=EtQe_l1kcxg
+  - https://www.youtube.com/watch?v=MEty25BecTQ
+  - https://www.youtube.com/watch?v=LVX33YZCWfA
+  - https://www.youtube.com/watch?v=HXOpBFWCzvg
 - title: the best thing i ever did
   queries:
   - best thing
