@@ -122,6 +122,7 @@ songs:
   - https://www.youtube.com/watch?v=tQ0CH_lLpuU
   - https://www.youtube.com/watch?v=Nk0se10ZF74
   - https://www.youtube.com/watch?v=rGqFSNi_hik
+  - https://www.youtube.com/watch?v=CEwllexK7f0
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -694,6 +695,7 @@ songs:
   - https://www.youtube.com/watch?v=LVX33YZCWfA
   - https://www.youtube.com/watch?v=HXOpBFWCzvg
   - https://www.youtube.com/watch?v=zR6TuDYqzS8
+  - https://www.youtube.com/watch?v=wOS_wkmNj-g
 - title: the best thing i ever did
   queries:
   - best thing
@@ -704,3 +706,10 @@ songs:
   - dreams come true
   media:
   - https://www.youtube.com/watch?v=C7BJJSfJrlg
+- title: move cover
+  queries:
+  - move
+  media:
+  - https://www.youtube.com/watch?v=QTfzryUBlO0
+  - https://www.youtube.com/watch?v=z6M1PrWvNWE
+  - https://www.youtube.com/watch?v=n5_qC8AEUXw
