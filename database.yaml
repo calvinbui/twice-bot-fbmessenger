@@ -123,6 +123,8 @@ songs:
   - https://www.youtube.com/watch?v=Nk0se10ZF74
   - https://www.youtube.com/watch?v=rGqFSNi_hik
   - https://www.youtube.com/watch?v=CEwllexK7f0
+  - https://www.youtube.com/watch?v=4huCJxcr8u0
+  - https://www.youtube.com/watch?v=8YJ9sokII9s
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -186,6 +188,7 @@ songs:
   - https://www.youtube.com/watch?v=w6wnXTDhxUI
   - https://www.youtube.com/watch?v=Ib8zI8zdEdY
   - https://www.youtube.com/watch?v=3pPEgYiB5qM
+  - https://www.youtube.com/watch?v=VppyGZ-qOgM
 - title: Like OOH-AHH
   queries:
   - oo+hh+
@@ -506,6 +509,7 @@ songs:
   - https://www.youtube.com/watch?v=Jer5Iutre6Q
   - https://www.youtube.com/watch?v=KNlCSIuvzvc
   - https://www.youtube.com/watch?v=XVINWONYQMg
+  - https://www.youtube.com/watch?v=b1QlN4LJLg4
 - title: Ghost
   queries:
   - ghost
