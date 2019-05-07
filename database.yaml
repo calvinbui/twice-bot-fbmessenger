@@ -55,6 +55,7 @@ songs:
   - https://www.youtube.com/watch?v=JOd_OKGRM0c
   - https://www.youtube.com/watch?v=sLUVs83-skk
   - https://www.youtube.com/watch?v=hszrB7TiAkQ
+  - https://www.youtube.com/watch?v=crIcIEg_naY
 - title: Likey
   queries:
   - likey
@@ -77,6 +78,9 @@ songs:
   - https://www.youtube.com/watch?v=XHaAQBCz4R8
   - https://www.youtube.com/watch?v=vrI0HeMhgRc
   - https://www.youtube.com/watch?v=P7OnbNZQ4eY
+  - https://www.youtube.com/watch?v=jgBeHfdOPtI
+  - https://www.youtube.com/watch?v=WjajWYOeJrA
+  - https://www.youtube.com/watch?v=UJGC1IkyU1M
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -125,6 +129,7 @@ songs:
   - https://www.youtube.com/watch?v=CEwllexK7f0
   - https://www.youtube.com/watch?v=4huCJxcr8u0
   - https://www.youtube.com/watch?v=8YJ9sokII9s
+  - https://www.youtube.com/watch?v=xkeiqLDhK7M
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -160,6 +165,7 @@ songs:
   - https://www.youtube.com/watch?v=Zqz78jMHAGk
   - https://www.youtube.com/watch?v=s5KkjXhg1o8
   - https://www.youtube.com/watch?v=09BLqa3Pnbo
+  - https://www.youtube.com/watch?v=YUDZBH2OX7k
 - title: Cheer Up
   queries:
   - cheer(\ me\ |\ )up
@@ -189,6 +195,10 @@ songs:
   - https://www.youtube.com/watch?v=Ib8zI8zdEdY
   - https://www.youtube.com/watch?v=3pPEgYiB5qM
   - https://www.youtube.com/watch?v=VppyGZ-qOgM
+  - https://www.youtube.com/watch?v=lyg7SoXoTRw
+  - https://www.youtube.com/watch?v=qCmQ2vN3h7Y
+  - https://www.youtube.com/watch?v=lRZxCL-9h34
+  - https://www.youtube.com/watch?v=ZA7dKlSwalk
 - title: Like OOH-AHH
   queries:
   - oo+hh+
@@ -222,6 +232,12 @@ songs:
   - https://www.youtube.com/watch?v=DrLhUBw4xTI
   - https://www.youtube.com/watch?v=VFtznZN5HaA
   - https://www.youtube.com/watch?v=_dvbkjoach0
+  - https://www.youtube.com/watch?v=tDOfJIA4K9E
+  - https://www.youtube.com/watch?v=8HXIMGrLeZU
+  - https://www.youtube.com/watch?v=MhDXPaJa8Zk
+  - https://www.youtube.com/watch?v=KujgPxMW_08
+  - https://www.youtube.com/watch?v=UABhYUqlAco
+  - https://www.youtube.com/watch?v=rpzS3RFT0f4
 - title: Signal
   queries:
   - signal*s?i?n?g?
@@ -241,19 +257,23 @@ songs:
   - https://www.youtube.com/watch?v=Ztq4p0q_iRw
   - https://www.youtube.com/watch?v=WKpb-lt9OLU
   - https://www.youtube.com/watch?v=1n7mH-Y5CzE
+  - https://www.youtube.com/watch?v=seVDRK9EKts
+  - https://www.youtube.com/watch?v=o35Mzwfyd7E
+  - https://www.youtube.com/watch?v=cqJYpOnZnV0
 - title: Touchdown
   queries:
   - touchdown
   media:
-  - https://www.youtube.com/watch?v=a2rRdbSRbRM
   - https://www.youtube.com/watch?v=9YnlX1lSWHg?t=2s
   - https://www.youtube.com/watch?v=q7G7kkVE7zA?t=10s
   - https://www.youtube.com/watch?v=MYB1Vf-ic4w
+  - https://www.youtube.com/watch?v=aW-K2aEkQp8
 - title: Gee
   queries:
   - gee+
   media:
   - https://www.youtube.com/watch?v=WaDj9JS9qag
+  - https://www.youtube.com/watch?v=3kva3820DDw
 - title: TWICE
   queries:
   - twice
@@ -274,42 +294,27 @@ songs:
   - https://media1.tenor.com/images/aa7781024614344cddaded14b0633aa8/tenor.gif?itemid=11707311
   - https://media1.tenor.com/images/97dfab176003ed87c1189b1151a8f539/tenor.gif?itemid=7700052
   - https://media1.tenor.com/images/7fbc6b4b60328ac663ae828413999d7e/tenor.gif?itemid=7699998
-- title: Woo Hoo
-  queries:
-  - woo+hoo+
-  media:
-  - https://www.youtube.com/watch?v=5RrU2KgkK9w
-  - https://www.youtube.com/watch?v=2nb0GKCxs1g
 - title: Bad Girl Good Girl
   queries:
   - g(u|oo)+d+ g(i|u)+rl+s*
   - ba+d+ g(i|u)+rl+s*
   media:
   - https://www.youtube.com/watch?v=wmXlymC8HOQ
-  - https://www.youtube.com/watch?v=IbN6q00s-9A
   - https://www.youtube.com/watch?v=cYVCsO3Njng
+  - https://www.youtube.com/watch?v=ln-Eg35rVsw
 - title: Jelly Jelly
   queries:
   - "(u|you) jelly\\??"
   - jelly\?
   media:
   - https://www.youtube.com/watch?v=WuLQ5iV3Q64
-  - https://www.youtube.com/watch?v=dcZZRuhVnFs
-  - https://www.youtube.com/watch?v=xoRUkPR7WeE
+  - https://www.youtube.com/watch?v=UrkP7RRycIA
+  - https://www.youtube.com/watch?v=C6uRLMVijvY
 - title: Like A Fool
   queries:
   - like a foo+l
   media:
-  - https://www.youtube.com/watch?v=sc9AAtx72ms
   - https://www.youtube.com/watch?v=cn_fvqJf1uw
-  - https://www.youtube.com/watch?v=QKtxAmbx2Fk
-  - https://www.youtube.com/watch?v=NHchQ8otASA
-- title: Ponytail
-  queries:
-  - ponytail
-  media:
-  - https://www.youtube.com/watch?v=nDFHrHf6XtE
-  - https://www.youtube.com/watch?v=GR6QvlCKazk
 - title: One More Time
   queries:
   - one more time
@@ -324,7 +329,6 @@ songs:
   queries:
   - h(o|u)+(ne|nn)y
   media:
-  - https://www.youtube.com/watch?v=qkFFHunju1o
   - https://www.youtube.com/watch?v=wmXlymC8HOQ?t=3m12s
 - title: So Hot
   queries:
@@ -334,67 +338,18 @@ songs:
   - https://www.youtube.com/watch?v=lK0qFtRUGFQ?t=1m51s
   - https://www.youtube.com/watch?v=sqRwJPmhy0w
   - https://www.youtube.com/watch?v=NaCbCJiecx8
-- title: Truth
-  queries:
-  - truth
-  media:
-  - https://www.youtube.com/watch?v=kFVIlpZWxR8
-  - https://www.youtube.com/watch?v=FiHNeK0RobM
-  - https://www.youtube.com/watch?v=asTYp1uW384
+  - https://www.youtube.com/watch?v=ln-Eg35rVsw
+  - https://www.youtube.com/watch?v=TtmPb98l5DY
 - title: Saturday Night
   queries:
   - saturday ni(ght|te)
   media:
   - https://www.youtube.com/watch?v=yKkpNUT0UA0
   - https://www.youtube.com/watch?v=YWSVMC9RS2o
-- title: Luv Me
-  queries:
-  - l(u|o)+v+e* me
-  media:
-  - https://www.youtube.com/watch?v=S5wcE3aAZZc
-  - https://www.youtube.com/watch?v=0kWidNV5s3w
-- title: Turtle
-  queries:
-  - turtle
-  media:
-  - https://www.youtube.com/watch?v=sErJjrLswEw
-  - https://www.youtube.com/watch?v=tVv_C2fYStU
-  - https://www.youtube.com/watch?v=VTdydb_9p3U
-- title: Wow
-  queries:
-  - woww+
-  media:
-  - https://www.youtube.com/watch?v=-kf1y0S9gsk
-  - https://www.youtube.com/watch?v=ngpGqFCioUI
-  - https://www.youtube.com/watch?v=mWQtYuqpzWY
-  - https://www.youtube.com/watch?v=C2RiBkNsAnk
-  - https://www.youtube.com/watch?v=e0AvVW-FGuY
-- title: 24/7
-  queries:
-  - 24/7
-  media:
-  - https://www.youtube.com/watch?v=reUFmv3xr8w
-  - https://www.youtube.com/watch?v=2Z1C9rJtUHA
-- title: Look At Me
-  queries:
-  - look at me
-  media:
-  - https://www.youtube.com/watch?v=Q97pvL6GsIA
-- title: Don't Give Up
-  queries:
-  - don\'?t give up
-  media:
-  - https://www.youtube.com/watch?v=97PCZFThkVM
-- title: Rollin
-  queries:
-  - rolling?
-  media:
-  - https://www.youtube.com/watch?v=jpvWkizFIEM
 - title: Jaljayo Good Night
   queries:
   - good ni(ght|te)
   media:
-  - https://www.youtube.com/watch?v=WMs-SzOSfzs
   - https://www.youtube.com/watch?v=M4pk0Wx372w
 - title: MLB
   queries:
@@ -510,21 +465,9 @@ songs:
   - https://www.youtube.com/watch?v=KNlCSIuvzvc
   - https://www.youtube.com/watch?v=XVINWONYQMg
   - https://www.youtube.com/watch?v=b1QlN4LJLg4
-- title: Ghost
-  queries:
-  - ghost
-  media:
-  - https://media1.tenor.com/images/e2fd389296160d1879cc24b7e8b3c0aa/tenor.gif?itemid=11598038
-- title: Pulp Fiction
-  queries:
-  - pulp fiction
-  media:
-  - https://media1.tenor.com/images/b5227f4dd76e37e7f1150d2f0b64868e/tenor.gif?itemid=11720129
-- title: La La Land
-  queries:
-  - la la land
-  media:
-  - https://media1.tenor.com/images/be4f99f9bc1f42a9b56597f6b7e6af61/tenor.gif?itemid=11598034
+  - https://www.youtube.com/watch?v=TtmPb98l5DY
+  - https://www.youtube.com/watch?v=1uwzc0ES4Tw
+  - https://www.youtube.com/watch?v=mPp39aop7fY
 - title: "#twiceout"
   queries:
   - "#twiceout"
@@ -557,6 +500,9 @@ songs:
   - https://www.youtube.com/watch?v=5xup1SlgdhY
   - https://www.youtube.com/watch?v=C9IxgpVMdrw
   - https://www.youtube.com/watch?v=A1uRMUfmpOs
+  - https://www.youtube.com/watch?v=AGHu7dxlq8k
+  - https://www.youtube.com/watch?v=G3dbeojdRcs
+  - https://www.youtube.com/watch?v=SRT10ZncNWI
 - title: i want you back
   queries:
   - i want (\w\s?)+ back
@@ -611,6 +557,9 @@ songs:
   - https://www.youtube.com/watch?v=HXOpBFWCzvg
   - https://www.youtube.com/watch?v=zR6TuDYqzS8
   - https://www.youtube.com/watch?v=Tx7xV25DCo4
+  - https://www.youtube.com/watch?v=pphC4Xs-WMs
+  - https://www.youtube.com/watch?v=YSa1B0L6xus
+  - https://www.youtube.com/watch?v=B--P4VDIqFo
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -618,6 +567,8 @@ songs:
   - https://www.youtube.com/watch?v=RRc3onP9Ebw
   - https://www.youtube.com/watch?v=UWyk7QZW5fc
   - https://www.youtube.com/watch?v=GetXGYf9Fts
+  - https://www.youtube.com/watch?v=RRtjNkcMqjE
+  - https://www.youtube.com/watch?v=oygnWGnh60s
 - title: i'm going to be a star
   queries:
   - be a star
@@ -654,6 +605,7 @@ songs:
   - https://www.youtube.com/watch?v=mGlpRqFX-Ls
   - https://www.youtube.com/watch?v=Ct1Lce9lYBo
   - https://www.youtube.com/watch?v=m-4M-wF8zyI
+  - https://www.youtube.com/watch?v=FNqLAAjplmY
 - title: yes or yes
   queries:
   - yes.*yes
@@ -703,6 +655,8 @@ songs:
   - https://www.youtube.com/watch?v=wOS_wkmNj-g
   - https://www.youtube.com/watch?v=gU-xThp9HHs
   - https://www.youtube.com/watch?v=PMUuYEJSwJw
+  - https://www.youtube.com/watch?v=_7-NgE4RJTc
+  - https://www.youtube.com/watch?v=s7zEZLpfSrs
 - title: the best thing i ever did
   queries:
   - best thing
@@ -745,3 +699,11 @@ songs:
   - https://www.youtube.com/watch?v=UxM8LjnTMB8
   - https://www.youtube.com/watch?v=jMyCFjnE6po
   - https://www.youtube.com/watch?v=tExVELGiSBc
+  - https://www.youtube.com/watch?v=T4FqHFBtYw8
+  - https://www.youtube.com/watch?v=lpAwNFBkojY
+  - https://www.youtube.com/watch?v=21LzwWgdGR8
+- title: hush
+  queries:
+  - hush
+  media:
+  - https://www.youtube.com/watch?v=pSgp4c_omDI
