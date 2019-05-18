@@ -56,6 +56,7 @@ songs:
   - https://www.youtube.com/watch?v=sLUVs83-skk
   - https://www.youtube.com/watch?v=hszrB7TiAkQ
   - https://www.youtube.com/watch?v=crIcIEg_naY
+  - https://www.youtube.com/watch?v=MfmvIvAoxbE
 - title: Likey
   queries:
   - likey
@@ -199,6 +200,7 @@ songs:
   - https://www.youtube.com/watch?v=qCmQ2vN3h7Y
   - https://www.youtube.com/watch?v=lRZxCL-9h34
   - https://www.youtube.com/watch?v=ZA7dKlSwalk
+  - https://www.youtube.com/watch?v=W0Ryc34rNe8
 - title: Like OOH-AHH
   queries:
   - oo+hh+
@@ -468,6 +470,7 @@ songs:
   - https://www.youtube.com/watch?v=TtmPb98l5DY
   - https://www.youtube.com/watch?v=1uwzc0ES4Tw
   - https://www.youtube.com/watch?v=mPp39aop7fY
+  - https://www.youtube.com/watch?v=WmKqxrve-_M
 - title: "#twiceout"
   queries:
   - "#twiceout"
@@ -560,6 +563,7 @@ songs:
   - https://www.youtube.com/watch?v=pphC4Xs-WMs
   - https://www.youtube.com/watch?v=YSa1B0L6xus
   - https://www.youtube.com/watch?v=B--P4VDIqFo
+  - https://www.youtube.com/watch?v=RRNWXX7XC0g
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -658,6 +662,7 @@ songs:
   - https://www.youtube.com/watch?v=_7-NgE4RJTc
   - https://www.youtube.com/watch?v=s7zEZLpfSrs
   - https://www.youtube.com/watch?v=F7Tf-MfA6yo
+  - https://www.youtube.com/watch?v=AHaHjAmtnCk
 - title: the best thing i ever did
   queries:
   - best thing
@@ -708,6 +713,9 @@ songs:
   - https://www.youtube.com/watch?v=dUQOwjAdTW8
   - https://www.youtube.com/watch?v=qg9Zl0Fw6m4
   - https://www.youtube.com/watch?v=Nm7fS2dmeqg
+  - https://www.youtube.com/watch?v=Vut0YPo2pYQ
+  - https://www.youtube.com/watch?v=cOUBZjWXc5E
+  - https://www.youtube.com/watch?v=zMp9kQOWbnI
 - title: hush
   queries:
   - hush
