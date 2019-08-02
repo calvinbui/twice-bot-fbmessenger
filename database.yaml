@@ -724,3 +724,13 @@ songs:
   - hush
   media:
   - https://www.youtube.com/watch?v=pSgp4c_omDI
+- title: breakthrough
+  queries:
+  - breakthrough
+  media:
+  - https://www.youtube.com/watch?v=ZdKYi5ekshM
+- title: happy happy
+  queries:
+  - happy
+  media:
+  - https://www.youtube.com/watch?v=3n9rDwpa6QA
