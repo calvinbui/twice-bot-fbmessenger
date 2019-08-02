@@ -564,6 +564,7 @@ songs:
   - https://www.youtube.com/watch?v=YSa1B0L6xus
   - https://www.youtube.com/watch?v=B--P4VDIqFo
   - https://www.youtube.com/watch?v=RRNWXX7XC0g
+  - https://www.youtube.com/watch?v=Oc8iT4WYw7A
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -719,6 +720,7 @@ songs:
   - https://www.youtube.com/watch?v=zMp9kQOWbnI
   - https://www.youtube.com/watch?v=odU4qAyKKbs
   - https://www.youtube.com/watch?v=psqqgC1dIBg
+  - https://www.youtube.com/watch?v=6Iun_2M0f_A
 - title: hush
   queries:
   - hush
@@ -729,6 +731,7 @@ songs:
   - breakthrough
   media:
   - https://www.youtube.com/watch?v=ZdKYi5ekshM
+  - https://www.youtube.com/watch?v=6Iun_2M0f_A
 - title: happy happy
   queries:
   - happy
