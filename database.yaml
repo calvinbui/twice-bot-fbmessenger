@@ -82,6 +82,7 @@ songs:
   - https://www.youtube.com/watch?v=jgBeHfdOPtI
   - https://www.youtube.com/watch?v=WjajWYOeJrA
   - https://www.youtube.com/watch?v=UJGC1IkyU1M
+  - https://www.youtube.com/watch?v=N7MKlhS2ysU
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -471,6 +472,7 @@ songs:
   - https://www.youtube.com/watch?v=1uwzc0ES4Tw
   - https://www.youtube.com/watch?v=mPp39aop7fY
   - https://www.youtube.com/watch?v=WmKqxrve-_M
+  - https://www.youtube.com/watch?v=3zQXMPbK5jU
 - title: "#twiceout"
   queries:
   - "#twiceout"
@@ -739,3 +741,4 @@ songs:
   - happy
   media:
   - https://www.youtube.com/watch?v=3n9rDwpa6QA
+  - https://www.youtube.com/watch?v=vdVCUDqnL0U
