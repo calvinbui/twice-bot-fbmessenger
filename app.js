@@ -4,14 +4,13 @@ const fs = require('fs');
 
 const db = yaml.safeLoad(fs.readFileSync('database.yaml', 'utf8'));
 const peopleToIgnore = JSON.stringify(db.ignoreMessagesFrom);
-const credentials = JSON.parse(fs.readFileSync('credentials.json', 'utf8'));
 
 console.log('Database loaded');
 console.log(db);
 
 login({
-  email: credentials.username,
-  password: credentials.password
+  email: process.env.fb_username,
+  password: process.env.fb_password
 }, (err, api) => {
   if (err) {
     process.exit(1);

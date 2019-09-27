@@ -7,33 +7,26 @@ The bot is written in Node.js and also runs in a Docker container.
 ## Requirements
 -   NodeJS or Docker
 
-## Easy start
-Create `credentials.json`.
+## Docker
 
-Run `build.sh` to build and run locally.
+Recommended
 
-Run `start.sh` to build and run with Docker image from Docker Hub.
+```
+docker run -d -e fb_username=myemail@facebook.com -e fb_password=easytoguess calvinbui/twice-bot-fbmessenger twice
+```
 
-## Usage
-### NodeJS
-1.  Create a copy of `credentials.json.default` to `credentials.json`
-2.  Update `credentials.json` with your Facebook credentials
-3.  Update the database as needed
-4.  Run `npm install` to get all dependencies
-5.  Run the script with `node app.js`. Use PM2/Forever to restart on errors.
+## NodeJS
+1.  Export environment variables `fb_username` and `fb_password`
+2.  Update the database as needed
+3.  Run `npm install` to get all dependencies
+4.  Run the script with `node app.js`.
 
-### Docker
-1.  Create a copy of `credentials.json.default` to `credentials.json`
-2.  Update `credentials.json` with your Facebook credentials
-3.  Run `docker build -t twice_bot .` to build the Docker image
-4.  Run `docker run -d twice_bot` to start a container from the image as a daemon
-
-### Updating the database
+## Updating the database
 The database is a JSON file with an entry per song.
 -   Queries: comma-separated regex expressions to match in messages
 -   Media: comma-separated list of URLs to send (at random) when a query match occurs
 
-#### Regex Setting
+## Regex Setting
 The regular expression by default matches:
 *   Any single or double quotes before or after the word
 *   Any exclamation after the word
