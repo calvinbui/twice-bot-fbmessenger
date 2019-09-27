@@ -3,3 +3,6 @@ credentials.json
 npm-debug.log
 .git
 Dockerfile
+.eslintrc
+.gitignore
+build.sh
