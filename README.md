@@ -51,6 +51,8 @@ The regular expression by default matches:
 * https://www.youtube.com/user/tvpeopleclips
 * https://www.youtube.com/user/imbcmusic
 * https://www.youtube.com/user/Mnet
+* https://www.youtube.com/channel/UCAqlxq4Bs9PjI86M9lM18TA
+* https://www.youtube.com/user/SBSMusic1
 
 # Have some Tzuyu GIFS
 
