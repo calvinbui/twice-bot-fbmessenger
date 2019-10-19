@@ -735,6 +735,7 @@ songs:
   - https://www.youtube.com/watch?v=78Not844Q7k
   - https://www.youtube.com/watch?v=rRqdi21rmPQ
   - https://www.youtube.com/watch?v=RHCtQj5RboY
+  - https://www.youtube.com/watch?v=Om8yBH2uqbI
 - title: hush
   queries:
   - hush
@@ -809,3 +810,10 @@ songs:
   - https://www.youtube.com/watch?v=vJ8PlTn87Wk
   - https://www.youtube.com/watch?v=1K_FbN_8UqU
   - https://www.youtube.com/watch?v=o0XUCM-6Dek
+  - https://www.youtube.com/watch?v=E3m2yqaMKUw
+- title: fake and true
+  queries:
+  - fake
+  - "true"
+  media:
+  - https://www.youtube.com/watch?v=zQELp93xxfo
