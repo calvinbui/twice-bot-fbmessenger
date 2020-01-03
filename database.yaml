@@ -346,6 +346,7 @@ songs:
   - good( bye|bye)
   media:
   - https://www.youtube.com/watch?v=mcoeCX5OHFg
+  - https://www.youtube.com/watch?v=QFHLhmL5mLk
 - title: MLB
   queries:
   - mlb
