@@ -537,6 +537,7 @@ songs:
   - https://www.youtube.com/watch?v=Oc8iT4WYw7A
   - https://www.youtube.com/watch?v=bsD44O37QxE
   - https://www.youtube.com/watch?v=zzzkrvTjBVY
+  - https://www.youtube.com/watch?v=IRqJ5ATyDrY
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -641,6 +642,7 @@ songs:
   - https://www.youtube.com/watch?v=zaBPuexHoMo
   - https://www.youtube.com/watch?v=zzzkrvTjBVY
   - https://www.youtube.com/watch?v=ve7LEw8DA8k
+  - https://www.youtube.com/watch?v=IRqJ5ATyDrY
 - title: the best thing i ever did
   queries:
   - best thing
@@ -715,6 +717,7 @@ songs:
   - https://www.youtube.com/watch?v=heY2VhiiTpo
   - https://www.youtube.com/watch?v=z3JzEhgn7LA
   - https://www.youtube.com/watch?v=tJhVBGXT6qA
+  - https://www.youtube.com/watch?v=Lr163szQioc
 - title: hush
   queries:
   - hush
@@ -729,6 +732,7 @@ songs:
   - https://www.youtube.com/watch?v=wxGYrsRsNeU
   - https://www.youtube.com/watch?v=S51dUhIChXY
   - https://www.youtube.com/watch?v=6z5uDWz3sVw
+  - https://www.youtube.com/watch?v=JbOtRZfSjdE
 - title: happy happy
   queries:
   - happy
@@ -805,6 +809,8 @@ songs:
   - https://www.youtube.com/watch?v=WORsSATb5mk
   - https://www.youtube.com/watch?v=yNjKk1HZs6I
   - https://www.youtube.com/watch?v=iv6t9jtZ_lM
+  - https://www.youtube.com/watch?v=JbOtRZfSjdE
+  - https://www.youtube.com/watch?v=IRqJ5ATyDrY
 - title: fake and true
   queries:
   - fake
