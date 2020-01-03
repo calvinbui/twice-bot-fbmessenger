@@ -341,6 +341,11 @@ songs:
   - good ni(ght|te)
   media:
   - https://www.youtube.com/watch?v=M4pk0Wx372w
+- title: GOOD BYE
+  queries:
+  - good( bye|bye)
+  media:
+  - https://www.youtube.com/watch?v=mcoeCX5OHFg
 - title: MLB
   queries:
   - mlb
@@ -706,6 +711,10 @@ songs:
   - https://www.youtube.com/watch?v=wrGNRAUKWzs
   - https://www.youtube.com/watch?v=aiGUNG47EUA
   - https://www.youtube.com/watch?v=VFG-sO8d9OI
+  - https://www.youtube.com/watch?v=J7ocEwIWMFY
+  - https://www.youtube.com/watch?v=heY2VhiiTpo
+  - https://www.youtube.com/watch?v=z3JzEhgn7LA
+  - https://www.youtube.com/watch?v=tJhVBGXT6qA
 - title: hush
   queries:
   - hush
@@ -719,6 +728,7 @@ songs:
   - https://www.youtube.com/watch?v=6Iun_2M0f_A
   - https://www.youtube.com/watch?v=wxGYrsRsNeU
   - https://www.youtube.com/watch?v=S51dUhIChXY
+  - https://www.youtube.com/watch?v=6z5uDWz3sVw
 - title: happy happy
   queries:
   - happy
@@ -790,6 +800,11 @@ songs:
   - https://www.youtube.com/watch?v=0gQ2Nk9Vbak
   - https://www.youtube.com/watch?v=wxGYrsRsNeU
   - https://www.youtube.com/watch?v=S51dUhIChXY
+  - https://www.youtube.com/watch?v=TmNgYI9LDds
+  - https://www.youtube.com/watch?v=6z5uDWz3sVw
+  - https://www.youtube.com/watch?v=WORsSATb5mk
+  - https://www.youtube.com/watch?v=yNjKk1HZs6I
+  - https://www.youtube.com/watch?v=iv6t9jtZ_lM
 - title: fake and true
   queries:
   - fake
