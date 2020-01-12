@@ -82,6 +82,7 @@ songs:
   - https://www.youtube.com/watch?v=WjajWYOeJrA
   - https://www.youtube.com/watch?v=UJGC1IkyU1M
   - https://www.youtube.com/watch?v=N7MKlhS2ysU
+  - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=220
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -126,6 +127,7 @@ songs:
   - https://www.youtube.com/watch?v=8YJ9sokII9s
   - https://www.youtube.com/watch?v=xkeiqLDhK7M
   - https://www.youtube.com/watch?v=kLQ558cN6pw
+  - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=116
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -150,6 +152,8 @@ songs:
   - https://www.youtube.com/watch?v=s5KkjXhg1o8
   - https://www.youtube.com/watch?v=09BLqa3Pnbo
   - https://www.youtube.com/watch?v=YUDZBH2OX7k
+  - https://www.youtube.com/watch?v=xNJYgHRuuZ0
+  - https://www.youtube.com/watch?v=TF-Vual9Vyc
 - title: Cheer Up
   queries:
   - cheer(\ me\ |\ )up
@@ -466,6 +470,7 @@ songs:
   - https://www.youtube.com/watch?v=mPp39aop7fY
   - https://www.youtube.com/watch?v=WmKqxrve-_M
   - https://www.youtube.com/watch?v=3zQXMPbK5jU
+  - https://www.youtube.com/watch?v=XKd7U6ZmKsM
 - title: pocari
   queries:
   - pocari
@@ -644,6 +649,7 @@ songs:
   - https://www.youtube.com/watch?v=zzzkrvTjBVY
   - https://www.youtube.com/watch?v=ve7LEw8DA8k
   - https://www.youtube.com/watch?v=IRqJ5ATyDrY
+  - https://www.youtube.com/watch?v=B3hMYYMQo-k
 - title: the best thing i ever did
   queries:
   - best thing
@@ -719,6 +725,8 @@ songs:
   - https://www.youtube.com/watch?v=z3JzEhgn7LA
   - https://www.youtube.com/watch?v=tJhVBGXT6qA
   - https://www.youtube.com/watch?v=Lr163szQioc
+  - https://www.youtube.com/watch?v=XUTD05achRE
+  - https://www.youtube.com/watch?v=f-P4_b-a-9U
 - title: hush
   queries:
   - hush
@@ -812,6 +820,7 @@ songs:
   - https://www.youtube.com/watch?v=iv6t9jtZ_lM
   - https://www.youtube.com/watch?v=JbOtRZfSjdE
   - https://www.youtube.com/watch?v=IRqJ5ATyDrY
+  - https://www.youtube.com/watch?v=flDYi6R1HI0
 - title: fake and true
   queries:
   - fake
