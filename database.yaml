@@ -56,6 +56,7 @@ songs:
   - https://www.youtube.com/watch?v=hszrB7TiAkQ
   - https://www.youtube.com/watch?v=crIcIEg_naY
   - https://www.youtube.com/watch?v=MfmvIvAoxbE
+  - https://www.youtube.com/watch?v=cdTGNLJyOZQ
 - title: Likey
   queries:
   - likey
@@ -83,6 +84,7 @@ songs:
   - https://www.youtube.com/watch?v=UJGC1IkyU1M
   - https://www.youtube.com/watch?v=N7MKlhS2ysU
   - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=220
+  - https://www.youtube.com/watch?v=Hb65q6Ls9yw
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -128,6 +130,7 @@ songs:
   - https://www.youtube.com/watch?v=xkeiqLDhK7M
   - https://www.youtube.com/watch?v=kLQ558cN6pw
   - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=116
+  - https://www.youtube.com/watch?v=EA4VLPRO9Ls
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -188,6 +191,7 @@ songs:
   - https://www.youtube.com/watch?v=lRZxCL-9h34
   - https://www.youtube.com/watch?v=ZA7dKlSwalk
   - https://www.youtube.com/watch?v=W0Ryc34rNe8
+  - https://www.youtube.com/watch?v=EA4VLPRO9Ls
 - title: Like OOH-AHH
   queries:
   - oo+hh+
@@ -228,6 +232,7 @@ songs:
   - https://www.youtube.com/watch?v=UABhYUqlAco
   - https://www.youtube.com/watch?v=rpzS3RFT0f4
   - https://www.youtube.com/watch?v=XWzxH8DSWUo
+  - https://www.youtube.com/watch?v=5LJfFlHlG3g
 - title: Signal
   queries:
   - signal*s?i?n?g?
@@ -249,6 +254,7 @@ songs:
   - https://www.youtube.com/watch?v=seVDRK9EKts
   - https://www.youtube.com/watch?v=o35Mzwfyd7E
   - https://www.youtube.com/watch?v=cqJYpOnZnV0
+  - https://www.youtube.com/watch?v=Hb65q6Ls9yw
 - title: Touchdown
   queries:
   - touchdown
@@ -289,6 +295,7 @@ songs:
   - https://www.youtube.com/watch?v=4BLXN0v99ZQ
   - https://www.youtube.com/watch?v=1Yr_Uz5OcCc
   - https://www.youtube.com/watch?v=iEdagfgYU9k
+  - https://www.youtube.com/watch?v=0yOo53LdyAM
 - title: Bad Girl Good Girl
   queries:
   - g(u|oo)+d+ g(i|u)+rl+s*
@@ -420,6 +427,7 @@ songs:
   - https://www.youtube.com/watch?v=aggc4PD--Gk
   - https://www.youtube.com/watch?v=8wUiynQ6544
   - https://www.youtube.com/watch?v=WP5KFmxOPQY
+  - https://www.youtube.com/watch?v=xKUpPoF5G24
 - title: What Is Love?
   queries:
   - what is love
@@ -472,6 +480,7 @@ songs:
   - https://www.youtube.com/watch?v=WmKqxrve-_M
   - https://www.youtube.com/watch?v=3zQXMPbK5jU
   - https://www.youtube.com/watch?v=XKd7U6ZmKsM
+  - https://www.youtube.com/watch?v=UQ-gUsyBvks
 - title: pocari
   queries:
   - pocari
@@ -592,6 +601,7 @@ songs:
   - https://www.youtube.com/watch?v=m-4M-wF8zyI
   - https://www.youtube.com/watch?v=FNqLAAjplmY
   - https://www.youtube.com/watch?v=400Ki4hG6kw
+  - https://www.youtube.com/watch?v=UQ-gUsyBvks
 - title: yes or yes
   queries:
   - yes.*yes
@@ -656,6 +666,7 @@ songs:
   - best thing
   media:
   - https://www.youtube.com/watch?v=CfUGjK6gGgs
+  - https://www.youtube.com/watch?v=xKUpPoF5G24
 - title: dreams come true
   queries:
   - dreams come true
