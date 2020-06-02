@@ -10,7 +10,8 @@ console.log(db);
 
 login({
   email: process.env.fb_username,
-  password: process.env.fb_password
+  password: process.env.fb_password,
+  userAgent: "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36"
 }, (err, api) => {
   if (err) {
     process.exit(1);
@@ -19,6 +20,7 @@ login({
   console.log('Bot started');
   // reply when i talk to myself
   api.setOptions({
+    listenEvents: true,
     selfListen: true,
     // Choose from either `"silly"`, `"verbose"`, `"info"`, `"http"`, `"warn"`, `"error"`, or `"silent"`.
     logLevel: "http"
@@ -30,7 +32,7 @@ login({
   });
   */
 
-  api.listen((err, message) => {
+  api.listenMqtt((err, message) => {
     if (err) {
       process.exit(1);
     }

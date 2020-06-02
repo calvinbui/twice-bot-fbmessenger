@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "facebook-chat-api": "1.6.0",
-    "js-yaml": "^3.13.1"
+    "facebook-chat-api": "^1.8.0",
+    "js-yaml": "^3.14.0"
   }
 }
