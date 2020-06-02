@@ -840,3 +840,15 @@ songs:
   - "true"
   media:
   - https://www.youtube.com/watch?v=zQELp93xxfo
+- title: more and more
+  queries:
+  - more 
+  media:
+  - https://www.youtube.com/watch?v=mH0_XpSHkZo
+  - https://www.youtube.com/watch?v=SUCNse5JoO4
+  - https://www.youtube.com/watch?v=MHbm4TvQGwg
+- title: sweet summer day
+  queries:
+  - summer
+  media:
+  - https://www.youtube.com/watch?v=6jMX93BGU6c
