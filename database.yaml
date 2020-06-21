@@ -870,8 +870,20 @@ songs:
   - https://www.youtube.com/watch?v=3lLkKF3iZ94
   - https://www.youtube.com/watch?v=Jqd8QzRD5D0
   - https://www.youtube.com/watch?v=hKfJTg8O_rA
+  - https://www.youtube.com/watch?v=NiG0r6LO9jA
+  - https://www.youtube.com/watch?v=NMaDyWpPMxA
+  - https://www.youtube.com/watch?v=_ozUdMkJ0po
+  - https://www.youtube.com/watch?v=BHeW6Qq5LxQ
+  - https://www.youtube.com/watch?v=8DZbCRocTx4
+  - https://www.youtube.com/watch?v=RNFhWkD4Ejo
+  - https://www.youtube.com/watch?v=OEiqsXw4Xco
 - title: sweet summer day
   queries:
   - summer
   media:
   - https://www.youtube.com/watch?v=6jMX93BGU6c
+- title: fanfare
+  queries:
+  - fanfare
+  media:
+  - https://www.youtube.com/watch?v=kRT174IdxuM
