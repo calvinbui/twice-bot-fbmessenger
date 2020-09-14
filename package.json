@@ -11,6 +11,6 @@
   "dependencies": {
     "facebook-chat-api": "^1.8.0",
     "js-yaml": "^3.14.0",
-    "bl": ">=1.2.3"
+    "bl": ">=2.2.1"
   }
 }
