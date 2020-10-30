@@ -848,7 +848,7 @@ songs:
   - https://www.youtube.com/watch?v=zQELp93xxfo
 - title: more and more
   queries:
-  - more 
+  - more
   media:
   - https://www.youtube.com/watch?v=mH0_XpSHkZo
   - https://www.youtube.com/watch?v=SUCNse5JoO4
@@ -900,3 +900,21 @@ songs:
   media:
   - https://www.youtube.com/watch?v=kRT174IdxuM
   - https://www.youtube.com/watch?v=fWe0jcsd41Q
+- title: i can't stop me
+  queries:
+  - stop me
+  - can'?t stop
+  media:
+  - https://www.youtube.com/watch?v=CM4CkVFmTds
+  - https://www.youtube.com/watch?v=-ZmPjb5-u6Y
+- title: believer
+  queries:
+  - believer
+  media:
+  - https://www.youtube.com/watch?v=tAv2npizg9U
+- title: behind the mask
+  queries:
+  - behind the mask
+  - mask
+  media:
+  - https://www.youtube.com/watch?v=xQVowR4myeU
