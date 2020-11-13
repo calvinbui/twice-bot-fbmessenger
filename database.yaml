@@ -296,6 +296,7 @@ songs:
   - https://www.youtube.com/watch?v=1Yr_Uz5OcCc
   - https://www.youtube.com/watch?v=iEdagfgYU9k
   - https://www.youtube.com/watch?v=0yOo53LdyAM
+  - https://www.youtube.com/watch?v=MZ58iUw5Z4Q
 - title: Bad Girl Good Girl
   queries:
   - g(u|oo)+d+ g(i|u)+rl+s*
@@ -907,6 +908,17 @@ songs:
   media:
   - https://www.youtube.com/watch?v=CM4CkVFmTds
   - https://www.youtube.com/watch?v=-ZmPjb5-u6Y
+  - https://www.youtube.com/watch?v=rhMm79NZQTw
+  - https://www.youtube.com/watch?v=TjPGouR4FzQ
+  - https://www.youtube.com/watch?v=vWAC8Wkt9ok
+  - https://www.youtube.com/watch?v=ABsfdJ0sOd0
+  - https://www.youtube.com/watch?v=CBCWw9hyGx0
+  - https://www.youtube.com/watch?v=WS9eUDY7IN0
+  - https://www.youtube.com/watch?v=81s6VKPZSo0
+  - https://www.youtube.com/watch?v=TVC33clrfeI
+  - https://www.youtube.com/watch?v=FZmMb34JYTE
+  - https://www.youtube.com/watch?v=kOv8faeXrGY
+  - https://www.youtube.com/watch?v=p7RkGdzYMkE
 - title: believer
   queries:
   - believer
@@ -918,3 +930,12 @@ songs:
   - mask
   media:
   - https://www.youtube.com/watch?v=xQVowR4myeU
+- title: up no more
+  queries:
+  - up no more
+  media:
+  - https://www.youtube.com/watch?v=bq8kFdQbrNU
+  - https://www.youtube.com/watch?v=Zzk_3wVhsa8
+  - https://www.youtube.com/watch?v=3s41wKOnAHg
+  - https://www.youtube.com/watch?v=3RPzi7rChXQ
+  - https://www.youtube.com/watch?v=p7RkGdzYMkE
