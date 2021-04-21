@@ -30,6 +30,9 @@ songs:
   - https://www.youtube.com/watch?v=TtJuizOLRTY
   - https://www.youtube.com/watch?v=gT4qCovPhvg
   - https://www.youtube.com/watch?v=PM8EJ7-VdOI
+  - https://www.youtube.com/watch?v=Kq0tP6_jwEo
+  - https://www.youtube.com/watch?v=Otqn69rrRUA
+  - https://www.youtube.com/watch?v=XLWopzs3vOA
 - title: Heart Shaker
   queries:
   - heart
@@ -57,6 +60,7 @@ songs:
   - https://www.youtube.com/watch?v=crIcIEg_naY
   - https://www.youtube.com/watch?v=MfmvIvAoxbE
   - https://www.youtube.com/watch?v=cdTGNLJyOZQ
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=1466s
 - title: Likey
   queries:
   - likey
@@ -85,6 +89,7 @@ songs:
   - https://www.youtube.com/watch?v=N7MKlhS2ysU
   - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=220
   - https://www.youtube.com/watch?v=Hb65q6Ls9yw
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=1603s
 - title: TT
   queries:
   - t(\.|\ |)t
@@ -131,6 +136,7 @@ songs:
   - https://www.youtube.com/watch?v=kLQ558cN6pw
   - https://www.youtube.com/watch?v=B3hMYYMQo-k?t=116
   - https://www.youtube.com/watch?v=EA4VLPRO9Ls
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=2208s
 - title: Knock Knock
   queries:
   - "(k\\s?n\\s?o\\s?c\\s?k\\s?){2}"
@@ -157,6 +163,7 @@ songs:
   - https://www.youtube.com/watch?v=YUDZBH2OX7k
   - https://www.youtube.com/watch?v=xNJYgHRuuZ0
   - https://www.youtube.com/watch?v=TF-Vual9Vyc
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=2008s
 - title: Cheer Up
   queries:
   - cheer(\ me\ |\ )up
@@ -192,6 +199,7 @@ songs:
   - https://www.youtube.com/watch?v=ZA7dKlSwalk
   - https://www.youtube.com/watch?v=W0Ryc34rNe8
   - https://www.youtube.com/watch?v=EA4VLPRO9Ls
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=2419s
 - title: Like OOH-AHH
   queries:
   - oo+hh+
@@ -233,6 +241,7 @@ songs:
   - https://www.youtube.com/watch?v=rpzS3RFT0f4
   - https://www.youtube.com/watch?v=XWzxH8DSWUo
   - https://www.youtube.com/watch?v=5LJfFlHlG3g
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=2627s
 - title: Signal
   queries:
   - signal*s?i?n?g?
@@ -255,6 +264,12 @@ songs:
   - https://www.youtube.com/watch?v=o35Mzwfyd7E
   - https://www.youtube.com/watch?v=cqJYpOnZnV0
   - https://www.youtube.com/watch?v=Hb65q6Ls9yw
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=1812s
+  - https://www.youtube.com/watch?v=NXIaPa4vkfg
+  - https://www.youtube.com/watch?v=kJHZ-Nh4oLo
+  - https://www.youtube.com/watch?v=gruYTExJxVI
+  - https://www.youtube.com/watch?v=F7zLGJbgkR0
+  - https://www.youtube.com/watch?v=yK0y5jzv0p0
 - title: Touchdown
   queries:
   - touchdown
@@ -263,6 +278,7 @@ songs:
   - https://www.youtube.com/watch?v=q7G7kkVE7zA?t=10s
   - https://www.youtube.com/watch?v=MYB1Vf-ic4w
   - https://www.youtube.com/watch?v=aW-K2aEkQp8
+  - https://www.youtube.com/watch?v=AKyMh24YkJc&t=150s
 - title: Gee
   queries:
   - gee+
@@ -463,7 +479,7 @@ songs:
   - https://www.youtube.com/watch?v=Ss2cW62zrxQ
   - https://www.youtube.com/watch?v=7TravthhQBc
   - https://www.youtube.com/watch?v=cE44ONdjmVs
-  - https://www.youtube.com/watch?v=sLUVs83-skk&t=1m27s
+  - https://www.youtube.com/watch?v=sLUVs83-skk?t=1m27s
   - https://www.youtube.com/watch?v=UZRvsNXDKBk
   - https://www.youtube.com/watch?v=Aq7FT6RbXW0
   - https://www.youtube.com/watch?v=gKCOBSU0JoI
@@ -482,6 +498,8 @@ songs:
   - https://www.youtube.com/watch?v=3zQXMPbK5jU
   - https://www.youtube.com/watch?v=XKd7U6ZmKsM
   - https://www.youtube.com/watch?v=UQ-gUsyBvks
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=1261s
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=1123s
 - title: pocari
   queries:
   - pocari
@@ -559,6 +577,8 @@ songs:
   - https://www.youtube.com/watch?v=s2pIwuBOAA4
   - https://www.youtube.com/watch?v=BLwoB6nunys
   - https://www.youtube.com/watch?v=bSqxSd6VSj4
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=1079s
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=922s
 - title: 1 to 10
   queries:
   - "(one|1) to (10|ten)"
@@ -585,6 +605,7 @@ songs:
   - https://www.youtube.com/watch?v=aTFbIfoSXVo
   - https://www.youtube.com/watch?v=vEPO89SjexY
   - https://www.youtube.com/watch?v=AsmDr5_rsQ0
+  - https://www.youtube.com/watch?v=AKyMh24YkJc
 - title: bdz
   queries:
   - bdz
@@ -607,6 +628,7 @@ songs:
   - https://www.youtube.com/watch?v=FNqLAAjplmY
   - https://www.youtube.com/watch?v=400Ki4hG6kw
   - https://www.youtube.com/watch?v=UQ-gUsyBvks
+  - https://www.youtube.com/watch?v=AKyMh24YkJc&t=268s
 - title: yes or yes
   queries:
   - yes.*yes
@@ -666,6 +688,9 @@ songs:
   - https://www.youtube.com/watch?v=ve7LEw8DA8k
   - https://www.youtube.com/watch?v=IRqJ5ATyDrY
   - https://www.youtube.com/watch?v=B3hMYYMQo-k
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=839s
+  - https://www.youtube.com/watch?v=Sry18aXxLi4
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=681s
 - title: the best thing i ever did
   queries:
   - best thing
@@ -744,6 +769,8 @@ songs:
   - https://www.youtube.com/watch?v=Lr163szQioc
   - https://www.youtube.com/watch?v=XUTD05achRE
   - https://www.youtube.com/watch?v=f-P4_b-a-9U
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=622s
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=462s
 - title: hush
   queries:
   - hush
@@ -841,6 +868,8 @@ songs:
   - https://www.youtube.com/watch?v=yChy1KRIWAY
   - https://www.youtube.com/watch?v=DdGANagiCPM
   - https://www.youtube.com/watch?v=zb3EECrmSBo
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=416s
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=256s
 - title: fake and true
   queries:
   - fake
@@ -890,6 +919,20 @@ songs:
   - https://www.youtube.com/watch?v=0LHmhxMM5kY
   - https://www.youtube.com/watch?v=DdGANagiCPM
   - https://www.youtube.com/watch?v=DVaSyDg1pL0
+  - https://www.youtube.com/watch?v=aI0_UUce0Js?t=215s
+  - https://www.youtube.com/watch?v=RzDBDD8xp5Y
+  - https://www.youtube.com/watch?v=68aviXlQU6s
+  - https://www.youtube.com/watch?v=0l44oaXBXSI
+  - https://www.youtube.com/watch?v=VdNDCfWtIFM
+  - https://www.youtube.com/watch?v=z3FHbvMIkSA
+  - https://www.youtube.com/watch?v=CvvtBQVyQl4
+  - https://www.youtube.com/watch?v=2YidLjLo7-o
+  - https://www.youtube.com/watch?v=quvvWIxgqnA
+  - https://www.youtube.com/watch?v=1DgHJRanc4s?t=251
+  - https://www.youtube.com/watch?v=YpqPUaYNjMw
+  - https://www.youtube.com/watch?v=Cshf8Ck803E
+  - https://www.youtube.com/watch?v=0YXZhzlNhCw?t=269
+  - https://www.youtube.com/watch?v=pnSMNiAOaek&t=43s
 - title: sweet summer day
   queries:
   - summer
@@ -923,6 +966,45 @@ songs:
   - https://www.youtube.com/watch?v=E0OhdPsi938
   - https://www.youtube.com/watch?v=0qHsu1nsSNU
   - https://www.youtube.com/watch?v=2bh2hE7FtOU
+  - https://www.youtube.com/watch?v=pMQjg5b-3gE
+  - https://www.youtube.com/watch?v=gAx-LYSJ3yw
+  - https://www.youtube.com/watch?v=TPpmOzpHiE0
+  - https://www.youtube.com/watch?v=iGnk3eqiuuU
+  - https://www.youtube.com/watch?v=OXfqhO4eBR8
+  - https://www.youtube.com/watch?v=lHKsb7lC2k4
+  - https://www.youtube.com/watch?v=u1sNnxowIC0
+  - https://www.youtube.com/watch?v=uD7FFjfhhTY
+  - https://www.youtube.com/watch?v=JOcqvVRXGZI
+  - https://www.youtube.com/watch?v=aI0_UUce0Js
+  - https://www.youtube.com/watch?v=9r3YR4OEvH0
+  - https://www.youtube.com/watch?v=w_RO8WJCeEQ
+  - https://www.youtube.com/watch?v=v5t7ZQWca-g
+  - https://www.youtube.com/watch?v=lelZJ8_lIFg
+  - https://www.youtube.com/watch?v=KapnufuNqRo
+  - https://www.youtube.com/watch?v=fxEdIFh0-Lc
+  - https://www.youtube.com/watch?v=NUV5PhY4hLU
+  - https://www.youtube.com/watch?v=iWgBoSnplug
+  - https://www.youtube.com/watch?v=se-t1o1SBL0
+  - https://www.youtube.com/watch?v=rCrektByGrU
+  - https://www.youtube.com/watch?v=dmoRsAoJHVg
+  - https://www.youtube.com/watch?v=nQrA3a2W5Rc
+  - https://www.youtube.com/watch?v=aa1f4MA5Nb0
+  - https://www.youtube.com/watch?v=_qGIQsxdUkM
+  - https://www.youtube.com/watch?v=83X6PWqvnfE
+  - https://www.youtube.com/watch?v=pZQmUf4xIw4
+  - https://www.youtube.com/watch?v=I9nYSumuaLA
+  - https://www.youtube.com/watch?v=MVi9IiJXyFk
+  - https://www.youtube.com/watch?v=sQoSJOnHGKc
+  - https://www.youtube.com/watch?v=rwOVby_DQjw
+  - https://www.youtube.com/watch?v=E50QmZyX3zI
+  - https://www.youtube.com/watch?v=-CbDua6Qkmk
+  - https://www.youtube.com/watch?v=YxaI3d_3NQE
+  - https://www.youtube.com/watch?v=z3FHbvMIkSA?t=214
+  - https://www.youtube.com/watch?v=CvvtBQVyQl4?t=211
+  - https://www.youtube.com/watch?v=2YidLjLo7-o?t=196
+  - https://www.youtube.com/watch?v=1DgHJRanc4s
+  - https://www.youtube.com/watch?v=YpqPUaYNjMw?t=473s
+  - https://www.youtube.com/watch?v=0YXZhzlNhCw
 - title: believer
   queries:
   - believer
@@ -944,3 +1026,66 @@ songs:
   - https://www.youtube.com/watch?v=3RPzi7rChXQ
   - https://www.youtube.com/watch?v=p7RkGdzYMkE
   - https://www.youtube.com/watch?v=7aCqwhSZ75c
+  - https://www.youtube.com/watch?v=BhC-VylUEK8
+  - https://www.youtube.com/watch?v=Yy6m0g-Dvwo
+  - https://www.youtube.com/watch?v=aMVD5k0Qh9c
+  - https://www.youtube.com/watch?v=YpqPUaYNjMw?t=256s
+  - https://www.youtube.com/watch?v=AKyMh24YkJc&t=460s
+- title: depend on you
+  queries:
+  - depend on you
+  media:
+  - https://www.youtube.com/watch?v=Jj9vsP4HWwg
+  - https://www.youtube.com/watch?v=wHolEflyO40
+- title: cry for me
+  queries:
+  - cry for me
+  media:
+  - https://www.youtube.com/watch?v=FO0iwx3PUHo
+  - https://www.youtube.com/watch?v=nUP0SLPtQgU
+  - https://www.youtube.com/watch?v=bkQw-F1QTq4
+  - https://www.youtube.com/watch?v=Cshf8Ck803E?t=163
+- title: better
+  queries:
+  - better
+  media:
+  - https://www.youtube.com/watch?v=sLmLwgxnPUE
+  - https://www.youtube.com/watch?v=HGJiSZW2PNY
+  - https://www.youtube.com/watch?v=cbzjs4Gji_4
+- title: scorpion
+  queries:
+  - scorpion
+  media:
+  - https://www.youtube.com/watch?v=sJV5ri2zeVk
+- title: say something
+  queries:
+  - say something
+  media:
+  - https://www.youtube.com/watch?v=UY3N52CrTPE
+- title: i'll show you
+  queries:
+  - show you
+  media:
+  - https://www.youtube.com/watch?v=WW1BpABbzHs
+- title: love is everything
+  queries:
+  - love is everything
+  media:
+  - https://www.youtube.com/watch?v=K4I2bTD7Fh0
+- title: switch to me
+  queries:
+  - switch to me
+  media:
+  - https://www.youtube.com/watch?v=5UMgw3V-Q5I
+- title: a late night of 1994
+  queries:
+  - a late night of 1994
+  - 1994
+  media:
+  - https://www.youtube.com/watch?v=djjbl7J6ZmU
+- title: kura kura
+  queries:
+  - kura
+  - sparkle
+  media:
+  - https://www.youtube.com/watch?v=BSS8Y-0hOlY
