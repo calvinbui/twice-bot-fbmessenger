@@ -1092,3 +1092,11 @@ songs:
   media:
   - https://www.youtube.com/watch?v=BSS8Y-0hOlY
   - https://www.youtube.com/watch?v=oTuYKF_BT9A
+- title: alcohol-free
+  queries:
+  - alcohol
+  - alchi
+  media:
+  - https://www.youtube.com/watch?v=XA2YEHn-A8Q
+  - https://www.youtube.com/watch?v=w8n1oAmU3j0
+  - https://www.youtube.com/watch?v=rzYfsWBxtgg
